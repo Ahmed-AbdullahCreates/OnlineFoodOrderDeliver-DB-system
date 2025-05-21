@@ -41,8 +41,8 @@ Project/
 │   ├── Documentation.pdf        # Comprehensive project documentation
 │
 ├── Development/                 # Development artifacts
-│   ├── QBE s.txt                # Query-By-Example notes
-│   └── Role.png                 # User roles diagram
+│   ├── QBE s.txt                # Query-By-Example to be added 
+│   └── Role.png                 # team roles
 │
 └── Implementation/              # Physical implementation
     └── food-delivery-system/
