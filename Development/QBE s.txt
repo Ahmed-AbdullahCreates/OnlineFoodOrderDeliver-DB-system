@@ -1,0 +1,3 @@
+QBEs Query by example :
+it something like SQL i think it is an upgrade how can i use it in my project 
+is going to develop it make it more good 

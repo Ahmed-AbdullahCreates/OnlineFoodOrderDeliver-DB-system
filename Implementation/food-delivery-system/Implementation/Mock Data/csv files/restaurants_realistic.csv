@@ -1,0 +1,501 @@
+RestaurantID,Name,City,Street,IsActive,Rating
+1,Koshary El Tahrir Branch 10,Sharm El-Sheikh,71 Corniche Road,1,4.71
+2,Gad Branch 9,Sharm El-Sheikh,6 El Geish Street,1,3.76
+3,Studio Misr Branch 6,Sharm El-Sheikh,27 Tahrir Street,1,3.35
+4,Abou Shakra Branch 8,Marsa Alam,8 Corniche Road,1,3.3
+5,Taboula Branch 6,Hurghada,84 Corniche Road,1,3.3
+6,Koshary El Tahrir Branch 1,Cairo,26 Corniche Road,1,3.66
+7,El Dahan Branch 4,Marsa Alam,97 El Geish Street,1,4.81
+8,Gad Branch 9,Alexandria,53 Mohandessin Street,1,3.9
+9,Kazouza Branch 6,Hurghada,89 Tahrir Street,1,4.1
+10,Gad Branch 6,Giza,9 Mohandessin Street,1,3.19
+11,Koshary El Tahrir Branch 5,Cairo,96 El Geish Street,1,4.81
+12,Gad Branch 8,Cairo,28 Mohandessin Street,1,4.04
+13,Kazouza Branch 2,Hurghada,24 Corniche Road,1,3.7
+14,Taboula Branch 4,Giza,77 El Geish Street,1,3.05
+15,Sobhy Kaber Branch 2,Sharm El-Sheikh,28 Tahrir Street,1,3.23
+16,Koshary El Tahrir Branch 3,Marsa Alam,15 Tahrir Street,1,3.77
+17,Koshary El Tahrir Branch 7,Sharm El-Sheikh,95 Mohandessin Street,1,3.01
+18,Sobhy Kaber Branch 1,Cairo,52 Mohandessin Street,1,3.57
+19,Felfela Branch 4,Sharm El-Sheikh,11 Tahrir Street,1,4.0
+20,Studio Misr Branch 9,Alexandria,26 Tahrir Street,1,3.44
+21,Kazouza Branch 7,Giza,98 El Geish Street,1,3.34
+22,El Dahan Branch 4,Giza,52 Corniche Road,1,3.55
+23,Studio Misr Branch 9,Marsa Alam,16 El Geish Street,1,3.33
+24,Sobhy Kaber Branch 2,Giza,72 Tahrir Street,1,4.51
+25,Gad Branch 10,Hurghada,9 El Geish Street,1,4.74
+26,Mahraja Branch 2,Alexandria,86 El Geish Street,1,3.05
+27,Studio Misr Branch 5,Sharm El-Sheikh,71 Corniche Road,1,4.63
+28,Felfela Branch 6,Hurghada,27 El Geish Street,1,4.97
+29,Kazouza Branch 1,Marsa Alam,5 Mohandessin Street,1,4.39
+30,Felfela Branch 8,Sharm El-Sheikh,67 Corniche Road,1,3.21
+31,Felfela Branch 6,Giza,97 El Geish Street,1,3.29
+32,Gad Branch 1,Marsa Alam,33 El Geish Street,1,4.65
+33,El Dahan Branch 10,Marsa Alam,73 Tahrir Street,1,3.96
+34,Mahraja Branch 2,Giza,12 Corniche Road,1,4.61
+35,Felfela Branch 2,Alexandria,28 Corniche Road,1,4.04
+36,Koshary El Tahrir Branch 8,Giza,96 Tahrir Street,1,3.29
+37,Taboula Branch 10,Hurghada,31 El Geish Street,1,4.06
+38,Koshary El Tahrir Branch 7,Hurghada,98 El Geish Street,1,4.53
+39,Abou Shakra Branch 5,Sharm El-Sheikh,38 Mohandessin Street,1,4.35
+40,Mahraja Branch 8,Hurghada,24 Tahrir Street,1,4.83
+41,Sobhy Kaber Branch 5,Cairo,52 Tahrir Street,1,4.31
+42,Kazouza Branch 4,Marsa Alam,45 Corniche Road,1,3.14
+43,Koshary El Tahrir Branch 10,Hurghada,14 Mohandessin Street,1,4.42
+44,Koshary El Tahrir Branch 2,Hurghada,49 Tahrir Street,1,4.46
+45,Sobhy Kaber Branch 5,Sharm El-Sheikh,89 Tahrir Street,1,4.49
+46,Mahraja Branch 6,Giza,38 El Geish Street,1,4.46
+47,Taboula Branch 2,Alexandria,13 Mohandessin Street,1,4.55
+48,Felfela Branch 6,Hurghada,18 Tahrir Street,1,4.37
+49,Mahraja Branch 3,Giza,56 Corniche Road,1,4.56
+50,El Dahan Branch 8,Hurghada,16 El Geish Street,1,4.49
+51,Sobhy Kaber Branch 7,Alexandria,88 El Geish Street,1,4.56
+52,El Dahan Branch 8,Sharm El-Sheikh,41 Mohandessin Street,1,4.41
+53,Taboula Branch 3,Hurghada,40 Mohandessin Street,1,3.58
+54,Koshary El Tahrir Branch 4,Sharm El-Sheikh,27 El Geish Street,1,4.81
+55,Abou Shakra Branch 6,Cairo,59 El Geish Street,1,3.03
+56,Abou Shakra Branch 3,Giza,25 Mohandessin Street,1,4.68
+57,Gad Branch 8,Alexandria,31 Mohandessin Street,1,4.5
+58,Studio Misr Branch 9,Cairo,100 Mohandessin Street,1,4.62
+59,Abou Shakra Branch 10,Giza,9 Tahrir Street,1,4.56
+60,Sobhy Kaber Branch 5,Sharm El-Sheikh,85 Mohandessin Street,1,3.75
+61,Studio Misr Branch 3,Cairo,46 El Geish Street,1,3.94
+62,Koshary El Tahrir Branch 8,Cairo,59 Mohandessin Street,1,4.43
+63,Mahraja Branch 10,Cairo,60 El Geish Street,1,4.49
+64,Sobhy Kaber Branch 8,Giza,19 El Geish Street,1,4.85
+65,El Dahan Branch 9,Alexandria,39 Mohandessin Street,1,3.0
+66,Sobhy Kaber Branch 10,Alexandria,38 Mohandessin Street,1,4.52
+67,Kazouza Branch 4,Marsa Alam,66 Corniche Road,1,3.34
+68,Studio Misr Branch 5,Marsa Alam,86 Tahrir Street,1,3.57
+69,Abou Shakra Branch 1,Hurghada,98 El Geish Street,1,3.06
+70,Mahraja Branch 3,Hurghada,95 Corniche Road,1,4.22
+71,El Dahan Branch 5,Cairo,20 Corniche Road,1,4.93
+72,Kazouza Branch 5,Marsa Alam,83 El Geish Street,1,4.17
+73,Abou Shakra Branch 8,Cairo,60 Corniche Road,1,3.17
+74,Taboula Branch 5,Sharm El-Sheikh,92 Corniche Road,1,4.79
+75,Mahraja Branch 9,Hurghada,67 Mohandessin Street,1,4.12
+76,Gad Branch 8,Alexandria,78 Mohandessin Street,1,3.88
+77,Sobhy Kaber Branch 7,Giza,54 Tahrir Street,1,3.69
+78,Kazouza Branch 8,Alexandria,79 Corniche Road,1,4.83
+79,Sobhy Kaber Branch 10,Sharm El-Sheikh,98 Tahrir Street,1,3.97
+80,Felfela Branch 9,Cairo,10 El Geish Street,1,4.19
+81,Abou Shakra Branch 3,Cairo,62 El Geish Street,1,4.21
+82,Koshary El Tahrir Branch 9,Hurghada,87 Tahrir Street,1,4.68
+83,Abou Shakra Branch 8,Giza,65 Tahrir Street,1,3.73
+84,Mahraja Branch 5,Giza,40 Corniche Road,1,4.59
+85,Studio Misr Branch 6,Cairo,20 Mohandessin Street,1,4.42
+86,Abou Shakra Branch 1,Hurghada,88 Tahrir Street,1,3.79
+87,Studio Misr Branch 6,Sharm El-Sheikh,29 El Geish Street,1,3.07
+88,Abou Shakra Branch 5,Hurghada,59 El Geish Street,1,4.1
+89,Gad Branch 3,Cairo,21 El Geish Street,1,3.33
+90,Taboula Branch 4,Hurghada,19 Mohandessin Street,1,3.64
+91,Studio Misr Branch 4,Sharm El-Sheikh,24 Mohandessin Street,1,4.26
+92,Felfela Branch 4,Alexandria,40 Mohandessin Street,1,3.11
+93,Kazouza Branch 4,Marsa Alam,37 Mohandessin Street,1,4.15
+94,Studio Misr Branch 7,Sharm El-Sheikh,64 Mohandessin Street,1,4.36
+95,Kazouza Branch 1,Marsa Alam,17 Tahrir Street,1,3.21
+96,El Dahan Branch 6,Marsa Alam,2 Tahrir Street,1,3.82
+97,Abou Shakra Branch 8,Cairo,12 Corniche Road,1,3.09
+98,Mahraja Branch 8,Sharm El-Sheikh,75 Corniche Road,1,3.19
+99,Kazouza Branch 9,Alexandria,31 Corniche Road,1,3.83
+100,Sobhy Kaber Branch 10,Hurghada,48 Corniche Road,1,3.91
+101,Gad Branch 8,Alexandria,49 Tahrir Street,1,4.76
+102,Felfela Branch 6,Giza,27 Tahrir Street,1,4.96
+103,Mahraja Branch 5,Marsa Alam,74 El Geish Street,1,4.34
+104,Gad Branch 10,Marsa Alam,39 Corniche Road,1,4.95
+105,Koshary El Tahrir Branch 1,Alexandria,84 Mohandessin Street,1,4.79
+106,Abou Shakra Branch 6,Sharm El-Sheikh,90 Tahrir Street,1,4.89
+107,Felfela Branch 4,Hurghada,58 El Geish Street,1,3.43
+108,Abou Shakra Branch 2,Cairo,82 Corniche Road,1,4.98
+109,Taboula Branch 7,Alexandria,88 Corniche Road,1,3.55
+110,Sobhy Kaber Branch 1,Hurghada,99 Corniche Road,1,4.43
+111,Gad Branch 10,Cairo,94 Corniche Road,1,3.97
+112,Taboula Branch 1,Giza,25 El Geish Street,1,3.45
+113,Koshary El Tahrir Branch 10,Cairo,36 El Geish Street,1,4.84
+114,Mahraja Branch 7,Giza,22 Mohandessin Street,1,4.53
+115,Kazouza Branch 4,Alexandria,19 Mohandessin Street,1,4.35
+116,Kazouza Branch 6,Alexandria,70 Mohandessin Street,1,3.48
+117,Abou Shakra Branch 7,Cairo,22 El Geish Street,1,3.82
+118,Mahraja Branch 8,Cairo,10 Mohandessin Street,1,3.72
+119,Kazouza Branch 10,Cairo,9 Tahrir Street,1,4.45
+120,Studio Misr Branch 9,Hurghada,95 Corniche Road,1,3.86
+121,Felfela Branch 3,Sharm El-Sheikh,57 Corniche Road,1,4.33
+122,Studio Misr Branch 5,Cairo,53 Corniche Road,1,4.99
+123,Kazouza Branch 8,Cairo,85 Tahrir Street,1,4.51
+124,Mahraja Branch 5,Marsa Alam,50 Mohandessin Street,1,4.03
+125,Abou Shakra Branch 3,Giza,16 Mohandessin Street,1,4.99
+126,Gad Branch 7,Giza,50 El Geish Street,1,3.81
+127,Gad Branch 6,Hurghada,57 El Geish Street,1,3.71
+128,Koshary El Tahrir Branch 2,Alexandria,5 Mohandessin Street,1,4.48
+129,Kazouza Branch 4,Giza,77 Mohandessin Street,1,4.72
+130,Abou Shakra Branch 8,Cairo,100 Mohandessin Street,1,4.54
+131,Kazouza Branch 4,Giza,93 Mohandessin Street,1,3.56
+132,Mahraja Branch 5,Sharm El-Sheikh,22 Tahrir Street,1,4.09
+133,Abou Shakra Branch 3,Marsa Alam,57 Tahrir Street,1,3.49
+134,Gad Branch 3,Giza,67 Corniche Road,1,4.84
+135,Studio Misr Branch 9,Cairo,52 El Geish Street,1,3.12
+136,Studio Misr Branch 2,Marsa Alam,75 Mohandessin Street,1,4.45
+137,Studio Misr Branch 4,Marsa Alam,42 El Geish Street,1,4.74
+138,Kazouza Branch 4,Alexandria,9 Corniche Road,1,3.18
+139,Gad Branch 10,Alexandria,84 Corniche Road,1,3.86
+140,Sobhy Kaber Branch 9,Marsa Alam,66 Corniche Road,1,3.53
+141,Abou Shakra Branch 10,Hurghada,91 El Geish Street,1,4.63
+142,El Dahan Branch 2,Hurghada,77 Corniche Road,1,4.61
+143,Felfela Branch 4,Hurghada,54 El Geish Street,1,4.07
+144,Abou Shakra Branch 7,Marsa Alam,50 Tahrir Street,1,3.14
+145,Studio Misr Branch 3,Cairo,59 El Geish Street,1,4.99
+146,El Dahan Branch 4,Marsa Alam,5 Tahrir Street,1,4.76
+147,Abou Shakra Branch 7,Alexandria,84 Mohandessin Street,1,3.02
+148,Koshary El Tahrir Branch 3,Alexandria,86 Mohandessin Street,1,3.45
+149,Taboula Branch 10,Hurghada,96 Mohandessin Street,1,4.76
+150,Koshary El Tahrir Branch 3,Giza,74 Corniche Road,1,3.21
+151,Mahraja Branch 3,Marsa Alam,36 El Geish Street,1,4.87
+152,Taboula Branch 8,Cairo,26 Corniche Road,1,3.56
+153,Felfela Branch 2,Giza,6 Corniche Road,1,3.34
+154,Abou Shakra Branch 7,Hurghada,43 Mohandessin Street,1,3.56
+155,Abou Shakra Branch 1,Giza,40 Tahrir Street,1,4.16
+156,Kazouza Branch 4,Giza,22 Mohandessin Street,1,4.22
+157,Abou Shakra Branch 6,Sharm El-Sheikh,22 Mohandessin Street,1,4.32
+158,Taboula Branch 3,Cairo,71 Tahrir Street,1,3.33
+159,Kazouza Branch 6,Cairo,81 Tahrir Street,1,4.01
+160,Kazouza Branch 8,Cairo,68 Mohandessin Street,1,3.11
+161,Mahraja Branch 2,Marsa Alam,53 El Geish Street,1,4.48
+162,Studio Misr Branch 3,Marsa Alam,11 Corniche Road,1,3.17
+163,Abou Shakra Branch 3,Giza,86 Tahrir Street,1,4.94
+164,Abou Shakra Branch 8,Marsa Alam,64 Tahrir Street,1,4.24
+165,Kazouza Branch 6,Sharm El-Sheikh,89 Tahrir Street,1,3.71
+166,Abou Shakra Branch 5,Marsa Alam,32 Corniche Road,1,4.88
+167,Sobhy Kaber Branch 2,Giza,49 Tahrir Street,1,3.12
+168,Taboula Branch 10,Marsa Alam,87 Mohandessin Street,1,4.81
+169,Taboula Branch 7,Alexandria,67 Corniche Road,1,3.25
+170,Sobhy Kaber Branch 6,Giza,61 Corniche Road,1,3.58
+171,Taboula Branch 8,Sharm El-Sheikh,27 Corniche Road,1,3.69
+172,Felfela Branch 1,Alexandria,71 El Geish Street,1,3.66
+173,Felfela Branch 7,Marsa Alam,27 Corniche Road,1,4.34
+174,Gad Branch 7,Cairo,55 Tahrir Street,1,3.99
+175,Koshary El Tahrir Branch 9,Sharm El-Sheikh,36 Corniche Road,1,3.57
+176,Koshary El Tahrir Branch 6,Alexandria,98 Mohandessin Street,1,3.26
+177,Abou Shakra Branch 1,Cairo,79 Mohandessin Street,1,3.6
+178,Kazouza Branch 8,Sharm El-Sheikh,55 Mohandessin Street,1,4.85
+179,Taboula Branch 3,Alexandria,95 Mohandessin Street,1,3.89
+180,Gad Branch 7,Giza,49 Mohandessin Street,1,4.45
+181,Koshary El Tahrir Branch 8,Hurghada,51 Corniche Road,1,4.47
+182,Mahraja Branch 2,Hurghada,77 El Geish Street,1,3.77
+183,El Dahan Branch 5,Sharm El-Sheikh,31 El Geish Street,1,4.68
+184,Felfela Branch 10,Hurghada,23 Corniche Road,1,3.07
+185,Mahraja Branch 8,Marsa Alam,57 Corniche Road,1,4.94
+186,Mahraja Branch 3,Marsa Alam,77 Mohandessin Street,1,4.91
+187,Mahraja Branch 6,Marsa Alam,82 Mohandessin Street,1,3.4
+188,Taboula Branch 8,Giza,37 El Geish Street,1,3.37
+189,Mahraja Branch 7,Hurghada,4 Corniche Road,1,3.54
+190,Mahraja Branch 3,Cairo,21 Mohandessin Street,1,4.95
+191,Mahraja Branch 5,Sharm El-Sheikh,67 El Geish Street,1,3.12
+192,Taboula Branch 9,Hurghada,68 Tahrir Street,1,3.89
+193,El Dahan Branch 4,Giza,60 El Geish Street,1,4.94
+194,Studio Misr Branch 6,Giza,31 Tahrir Street,1,4.97
+195,Abou Shakra Branch 4,Hurghada,19 Mohandessin Street,1,3.24
+196,Kazouza Branch 1,Marsa Alam,65 El Geish Street,1,3.44
+197,Taboula Branch 2,Giza,28 Mohandessin Street,1,3.97
+198,El Dahan Branch 5,Marsa Alam,84 Corniche Road,1,4.41
+199,Taboula Branch 7,Sharm El-Sheikh,73 El Geish Street,1,4.3
+200,Koshary El Tahrir Branch 4,Hurghada,4 El Geish Street,1,4.94
+201,Abou Shakra Branch 4,Sharm El-Sheikh,28 Mohandessin Street,1,4.75
+202,Taboula Branch 4,Alexandria,12 El Geish Street,1,3.16
+203,Abou Shakra Branch 2,Giza,71 Tahrir Street,1,3.01
+204,El Dahan Branch 3,Giza,72 Corniche Road,1,3.34
+205,Taboula Branch 5,Alexandria,76 Mohandessin Street,1,4.71
+206,Taboula Branch 6,Giza,63 Corniche Road,1,3.25
+207,Felfela Branch 9,Marsa Alam,25 Tahrir Street,1,3.33
+208,Gad Branch 1,Giza,14 Tahrir Street,1,3.4
+209,Gad Branch 4,Cairo,74 Corniche Road,1,4.41
+210,Felfela Branch 6,Hurghada,7 Mohandessin Street,1,3.51
+211,Mahraja Branch 10,Cairo,12 El Geish Street,1,4.83
+212,El Dahan Branch 8,Marsa Alam,4 Tahrir Street,1,4.25
+213,Koshary El Tahrir Branch 4,Cairo,68 Corniche Road,1,3.86
+214,Sobhy Kaber Branch 2,Giza,84 El Geish Street,1,4.8
+215,Koshary El Tahrir Branch 2,Hurghada,98 Corniche Road,1,4.58
+216,Felfela Branch 3,Giza,92 Tahrir Street,1,4.52
+217,Abou Shakra Branch 4,Giza,67 Tahrir Street,1,4.58
+218,El Dahan Branch 10,Marsa Alam,9 Tahrir Street,1,3.32
+219,Studio Misr Branch 4,Cairo,30 Mohandessin Street,1,4.33
+220,Gad Branch 9,Sharm El-Sheikh,1 El Geish Street,1,3.54
+221,Studio Misr Branch 9,Hurghada,64 El Geish Street,1,4.99
+222,Koshary El Tahrir Branch 3,Cairo,82 Tahrir Street,1,4.82
+223,Gad Branch 8,Giza,93 Mohandessin Street,1,4.24
+224,Sobhy Kaber Branch 2,Marsa Alam,58 Corniche Road,1,4.73
+225,Kazouza Branch 4,Cairo,18 Mohandessin Street,1,3.92
+226,Sobhy Kaber Branch 6,Marsa Alam,27 Corniche Road,1,4.07
+227,Abou Shakra Branch 3,Hurghada,49 Corniche Road,1,4.53
+228,El Dahan Branch 7,Hurghada,42 El Geish Street,1,3.63
+229,Felfela Branch 2,Alexandria,64 Tahrir Street,1,4.58
+230,Mahraja Branch 6,Sharm El-Sheikh,20 Mohandessin Street,1,3.41
+231,Sobhy Kaber Branch 3,Sharm El-Sheikh,5 El Geish Street,1,4.13
+232,Sobhy Kaber Branch 7,Hurghada,59 El Geish Street,1,4.31
+233,Taboula Branch 10,Giza,13 Corniche Road,1,3.25
+234,Koshary El Tahrir Branch 10,Marsa Alam,9 Tahrir Street,1,4.15
+235,Abou Shakra Branch 6,Hurghada,73 Tahrir Street,1,3.78
+236,Kazouza Branch 10,Giza,97 Corniche Road,1,4.73
+237,Studio Misr Branch 5,Alexandria,24 Tahrir Street,1,4.73
+238,Mahraja Branch 4,Hurghada,58 El Geish Street,1,3.35
+239,Kazouza Branch 5,Marsa Alam,73 Corniche Road,1,4.72
+240,Abou Shakra Branch 5,Alexandria,50 El Geish Street,1,4.79
+241,Studio Misr Branch 9,Sharm El-Sheikh,77 Tahrir Street,1,3.44
+242,Studio Misr Branch 9,Marsa Alam,1 El Geish Street,1,3.69
+243,Kazouza Branch 6,Sharm El-Sheikh,73 Corniche Road,1,3.3
+244,Taboula Branch 10,Giza,91 Corniche Road,1,3.11
+245,Abou Shakra Branch 4,Sharm El-Sheikh,3 Mohandessin Street,1,3.66
+246,Kazouza Branch 6,Sharm El-Sheikh,68 Corniche Road,1,4.56
+247,Mahraja Branch 2,Marsa Alam,73 Corniche Road,1,3.87
+248,Taboula Branch 8,Cairo,63 Corniche Road,1,3.48
+249,Koshary El Tahrir Branch 10,Giza,36 Mohandessin Street,1,3.96
+250,Koshary El Tahrir Branch 10,Alexandria,10 Mohandessin Street,1,3.68
+251,Koshary El Tahrir Branch 4,Giza,43 Corniche Road,1,4.05
+252,Mahraja Branch 1,Hurghada,68 Mohandessin Street,1,3.58
+253,Taboula Branch 7,Marsa Alam,64 Tahrir Street,1,4.7
+254,Mahraja Branch 8,Cairo,100 El Geish Street,1,3.2
+255,Koshary El Tahrir Branch 5,Alexandria,16 Corniche Road,1,4.89
+256,Gad Branch 8,Cairo,97 Tahrir Street,1,3.87
+257,Mahraja Branch 9,Giza,64 Corniche Road,1,4.89
+258,Kazouza Branch 4,Cairo,8 Tahrir Street,1,4.78
+259,Studio Misr Branch 5,Cairo,13 Tahrir Street,1,3.71
+260,Kazouza Branch 3,Sharm El-Sheikh,10 Corniche Road,1,4.61
+261,Kazouza Branch 10,Marsa Alam,77 Mohandessin Street,1,4.02
+262,Abou Shakra Branch 2,Hurghada,18 El Geish Street,1,4.47
+263,Koshary El Tahrir Branch 1,Hurghada,53 Mohandessin Street,1,4.58
+264,Mahraja Branch 9,Giza,13 Corniche Road,1,4.76
+265,Mahraja Branch 4,Giza,66 El Geish Street,1,3.05
+266,Mahraja Branch 4,Giza,15 Corniche Road,1,4.78
+267,Taboula Branch 7,Giza,5 Tahrir Street,1,4.69
+268,Taboula Branch 4,Cairo,36 Corniche Road,1,3.81
+269,Kazouza Branch 3,Giza,19 El Geish Street,1,3.07
+270,Abou Shakra Branch 6,Giza,43 Tahrir Street,1,4.2
+271,Kazouza Branch 10,Giza,34 Tahrir Street,1,4.67
+272,Taboula Branch 4,Marsa Alam,10 Corniche Road,1,4.73
+273,Koshary El Tahrir Branch 5,Hurghada,84 Corniche Road,1,3.97
+274,Sobhy Kaber Branch 3,Hurghada,74 El Geish Street,1,3.18
+275,Mahraja Branch 9,Cairo,34 Corniche Road,1,4.42
+276,Studio Misr Branch 4,Giza,35 Mohandessin Street,1,3.5
+277,Koshary El Tahrir Branch 10,Marsa Alam,34 Tahrir Street,1,4.16
+278,Studio Misr Branch 5,Cairo,2 Tahrir Street,1,3.92
+279,El Dahan Branch 3,Hurghada,95 Corniche Road,1,4.69
+280,Abou Shakra Branch 4,Cairo,79 Mohandessin Street,1,3.42
+281,Taboula Branch 1,Alexandria,70 El Geish Street,1,4.16
+282,Abou Shakra Branch 5,Hurghada,11 Corniche Road,1,3.62
+283,Studio Misr Branch 1,Alexandria,14 Mohandessin Street,1,4.74
+284,Abou Shakra Branch 6,Sharm El-Sheikh,80 Tahrir Street,1,3.16
+285,Sobhy Kaber Branch 2,Marsa Alam,45 Tahrir Street,1,4.67
+286,Gad Branch 9,Marsa Alam,47 Corniche Road,1,3.43
+287,Abou Shakra Branch 3,Sharm El-Sheikh,55 Mohandessin Street,1,3.61
+288,Taboula Branch 4,Hurghada,58 El Geish Street,1,4.48
+289,El Dahan Branch 10,Marsa Alam,91 Tahrir Street,1,3.86
+290,Abou Shakra Branch 7,Marsa Alam,15 Tahrir Street,1,4.67
+291,Koshary El Tahrir Branch 1,Cairo,31 Corniche Road,1,4.91
+292,Studio Misr Branch 7,Marsa Alam,4 Mohandessin Street,1,4.06
+293,Abou Shakra Branch 10,Marsa Alam,33 Tahrir Street,1,3.65
+294,Studio Misr Branch 9,Giza,37 Corniche Road,1,3.96
+295,Kazouza Branch 2,Sharm El-Sheikh,11 Mohandessin Street,1,4.09
+296,Sobhy Kaber Branch 5,Cairo,33 Corniche Road,1,4.42
+297,Studio Misr Branch 5,Marsa Alam,31 Mohandessin Street,1,3.84
+298,Abou Shakra Branch 7,Cairo,92 El Geish Street,1,3.11
+299,Felfela Branch 10,Sharm El-Sheikh,40 Corniche Road,1,4.29
+300,Felfela Branch 2,Cairo,54 El Geish Street,1,4.65
+301,Studio Misr Branch 5,Cairo,18 Mohandessin Street,1,4.66
+302,Studio Misr Branch 4,Alexandria,82 Tahrir Street,1,4.08
+303,Koshary El Tahrir Branch 1,Marsa Alam,39 Tahrir Street,1,3.62
+304,Gad Branch 5,Hurghada,9 Tahrir Street,1,4.64
+305,Gad Branch 2,Cairo,72 Corniche Road,1,5.0
+306,Taboula Branch 5,Giza,39 Tahrir Street,1,4.88
+307,Studio Misr Branch 1,Sharm El-Sheikh,9 Mohandessin Street,1,3.42
+308,Taboula Branch 5,Cairo,71 Mohandessin Street,1,4.38
+309,Taboula Branch 6,Cairo,73 Tahrir Street,1,3.86
+310,Mahraja Branch 5,Marsa Alam,18 El Geish Street,1,4.68
+311,Koshary El Tahrir Branch 8,Cairo,96 Tahrir Street,1,4.23
+312,Felfela Branch 9,Cairo,62 Tahrir Street,1,4.39
+313,Gad Branch 5,Giza,100 El Geish Street,1,3.95
+314,Abou Shakra Branch 10,Cairo,56 El Geish Street,1,4.2
+315,Studio Misr Branch 10,Giza,56 El Geish Street,1,3.99
+316,Felfela Branch 3,Alexandria,43 Tahrir Street,1,4.97
+317,Gad Branch 9,Marsa Alam,72 Tahrir Street,1,3.5
+318,Kazouza Branch 9,Hurghada,76 Tahrir Street,1,3.08
+319,Taboula Branch 10,Sharm El-Sheikh,34 Tahrir Street,1,3.93
+320,Studio Misr Branch 8,Cairo,3 Mohandessin Street,1,3.24
+321,Koshary El Tahrir Branch 5,Sharm El-Sheikh,7 Mohandessin Street,1,3.87
+322,Gad Branch 2,Giza,80 Tahrir Street,1,4.96
+323,Gad Branch 6,Cairo,86 Tahrir Street,1,4.43
+324,Abou Shakra Branch 10,Alexandria,28 Corniche Road,1,4.95
+325,Mahraja Branch 5,Sharm El-Sheikh,7 Tahrir Street,1,3.3
+326,Koshary El Tahrir Branch 2,Giza,39 El Geish Street,1,3.31
+327,Sobhy Kaber Branch 1,Hurghada,97 Mohandessin Street,1,3.49
+328,Sobhy Kaber Branch 10,Cairo,28 Tahrir Street,1,4.85
+329,Studio Misr Branch 5,Cairo,15 Tahrir Street,1,4.37
+330,Studio Misr Branch 5,Alexandria,99 El Geish Street,1,3.62
+331,Koshary El Tahrir Branch 5,Alexandria,50 Mohandessin Street,1,4.12
+332,Studio Misr Branch 9,Marsa Alam,34 Corniche Road,1,3.13
+333,Gad Branch 8,Sharm El-Sheikh,83 Tahrir Street,1,4.3
+334,Taboula Branch 4,Alexandria,24 El Geish Street,1,4.56
+335,Studio Misr Branch 6,Hurghada,57 El Geish Street,1,3.57
+336,Abou Shakra Branch 3,Hurghada,70 Mohandessin Street,1,3.71
+337,Abou Shakra Branch 6,Alexandria,62 El Geish Street,1,3.7
+338,Felfela Branch 4,Sharm El-Sheikh,13 El Geish Street,1,4.14
+339,Felfela Branch 5,Marsa Alam,17 Corniche Road,1,3.52
+340,Kazouza Branch 5,Sharm El-Sheikh,81 El Geish Street,1,4.9
+341,Felfela Branch 1,Giza,61 Corniche Road,1,3.75
+342,Taboula Branch 3,Alexandria,59 Tahrir Street,1,3.28
+343,Gad Branch 7,Cairo,99 El Geish Street,1,3.71
+344,Studio Misr Branch 3,Marsa Alam,91 Mohandessin Street,1,3.55
+345,Taboula Branch 8,Marsa Alam,28 Mohandessin Street,1,4.93
+346,Felfela Branch 9,Alexandria,19 Corniche Road,1,3.32
+347,Koshary El Tahrir Branch 1,Cairo,66 Corniche Road,1,3.05
+348,Abou Shakra Branch 2,Sharm El-Sheikh,42 Mohandessin Street,1,3.43
+349,Studio Misr Branch 8,Giza,67 Corniche Road,1,3.23
+350,Koshary El Tahrir Branch 4,Giza,82 Mohandessin Street,1,4.62
+351,Kazouza Branch 1,Hurghada,39 Corniche Road,1,3.09
+352,Sobhy Kaber Branch 2,Hurghada,73 Corniche Road,1,3.28
+353,Gad Branch 10,Marsa Alam,34 El Geish Street,1,4.74
+354,Mahraja Branch 1,Cairo,84 Tahrir Street,1,3.88
+355,Mahraja Branch 1,Giza,72 Mohandessin Street,1,4.53
+356,Taboula Branch 9,Cairo,96 Corniche Road,1,3.27
+357,Abou Shakra Branch 5,Alexandria,36 El Geish Street,1,4.53
+358,El Dahan Branch 10,Cairo,50 Corniche Road,1,4.67
+359,Kazouza Branch 8,Sharm El-Sheikh,34 Mohandessin Street,1,3.91
+360,El Dahan Branch 4,Giza,49 Corniche Road,1,3.1
+361,Sobhy Kaber Branch 3,Giza,1 Tahrir Street,1,3.84
+362,Sobhy Kaber Branch 8,Giza,78 Corniche Road,1,3.6
+363,Taboula Branch 1,Cairo,23 El Geish Street,1,3.61
+364,Koshary El Tahrir Branch 4,Sharm El-Sheikh,2 Corniche Road,1,4.8
+365,Gad Branch 4,Marsa Alam,73 Mohandessin Street,1,3.8
+366,Studio Misr Branch 7,Alexandria,94 Tahrir Street,1,3.71
+367,Koshary El Tahrir Branch 7,Alexandria,67 Mohandessin Street,1,4.11
+368,Abou Shakra Branch 7,Alexandria,95 Mohandessin Street,1,3.6
+369,Koshary El Tahrir Branch 5,Alexandria,4 Mohandessin Street,1,3.26
+370,Felfela Branch 7,Sharm El-Sheikh,68 Tahrir Street,1,4.85
+371,Koshary El Tahrir Branch 8,Hurghada,98 Tahrir Street,1,4.3
+372,Felfela Branch 5,Sharm El-Sheikh,15 Tahrir Street,1,4.3
+373,Studio Misr Branch 2,Giza,47 El Geish Street,1,4.02
+374,Sobhy Kaber Branch 8,Hurghada,66 Corniche Road,1,4.04
+375,Felfela Branch 5,Cairo,52 Tahrir Street,1,4.64
+376,Studio Misr Branch 2,Cairo,47 Mohandessin Street,1,4.58
+377,Gad Branch 9,Marsa Alam,97 Corniche Road,1,4.19
+378,Abou Shakra Branch 8,Alexandria,93 Tahrir Street,1,3.65
+379,Sobhy Kaber Branch 7,Giza,94 El Geish Street,1,4.23
+380,Abou Shakra Branch 9,Alexandria,70 El Geish Street,1,4.52
+381,Felfela Branch 2,Sharm El-Sheikh,78 Corniche Road,1,4.54
+382,Sobhy Kaber Branch 6,Cairo,32 El Geish Street,1,4.94
+383,Abou Shakra Branch 3,Hurghada,3 Mohandessin Street,1,4.49
+384,Mahraja Branch 10,Cairo,27 El Geish Street,1,4.59
+385,Studio Misr Branch 8,Giza,35 Tahrir Street,1,3.52
+386,Kazouza Branch 3,Cairo,28 Mohandessin Street,1,4.24
+387,Studio Misr Branch 9,Marsa Alam,93 Tahrir Street,1,3.83
+388,Mahraja Branch 10,Hurghada,18 Corniche Road,1,3.71
+389,Studio Misr Branch 10,Alexandria,38 Corniche Road,1,3.9
+390,Abou Shakra Branch 4,Giza,51 Tahrir Street,1,3.16
+391,Sobhy Kaber Branch 2,Hurghada,76 Tahrir Street,1,4.26
+392,Studio Misr Branch 4,Alexandria,43 Tahrir Street,1,3.55
+393,El Dahan Branch 3,Hurghada,16 Mohandessin Street,1,3.4
+394,Gad Branch 6,Marsa Alam,54 Mohandessin Street,1,4.29
+395,Felfela Branch 9,Alexandria,10 Tahrir Street,1,4.88
+396,Gad Branch 9,Sharm El-Sheikh,24 Tahrir Street,1,3.57
+397,El Dahan Branch 8,Hurghada,28 Corniche Road,1,4.0
+398,Studio Misr Branch 4,Cairo,13 Mohandessin Street,1,3.22
+399,Taboula Branch 3,Marsa Alam,36 Mohandessin Street,1,4.85
+400,El Dahan Branch 3,Sharm El-Sheikh,97 Mohandessin Street,1,3.49
+401,Kazouza Branch 4,Sharm El-Sheikh,85 El Geish Street,1,4.07
+402,El Dahan Branch 8,Giza,78 El Geish Street,1,4.11
+403,Abou Shakra Branch 8,Alexandria,78 Mohandessin Street,1,3.01
+404,Taboula Branch 7,Alexandria,21 Corniche Road,1,3.61
+405,Abou Shakra Branch 6,Hurghada,95 Tahrir Street,1,4.67
+406,Gad Branch 2,Giza,49 Corniche Road,1,3.07
+407,Taboula Branch 3,Alexandria,89 El Geish Street,1,3.3
+408,Studio Misr Branch 7,Giza,26 El Geish Street,1,4.02
+409,Studio Misr Branch 5,Alexandria,99 El Geish Street,1,4.78
+410,Gad Branch 5,Alexandria,4 Tahrir Street,1,4.5
+411,El Dahan Branch 6,Giza,20 Tahrir Street,1,3.81
+412,Gad Branch 1,Sharm El-Sheikh,1 Mohandessin Street,1,4.74
+413,El Dahan Branch 6,Sharm El-Sheikh,68 Mohandessin Street,1,3.02
+414,Koshary El Tahrir Branch 3,Sharm El-Sheikh,80 Corniche Road,1,3.71
+415,Koshary El Tahrir Branch 6,Alexandria,75 Tahrir Street,1,4.22
+416,Kazouza Branch 5,Sharm El-Sheikh,65 Corniche Road,1,3.55
+417,Felfela Branch 2,Hurghada,66 Corniche Road,1,4.01
+418,Studio Misr Branch 2,Cairo,57 Mohandessin Street,1,3.14
+419,Studio Misr Branch 8,Hurghada,62 El Geish Street,1,3.32
+420,El Dahan Branch 2,Alexandria,25 Corniche Road,1,4.99
+421,Felfela Branch 1,Alexandria,92 Mohandessin Street,1,3.66
+422,Koshary El Tahrir Branch 3,Cairo,14 Corniche Road,1,3.31
+423,Koshary El Tahrir Branch 4,Alexandria,4 Corniche Road,1,3.23
+424,El Dahan Branch 4,Marsa Alam,95 El Geish Street,1,4.54
+425,El Dahan Branch 2,Sharm El-Sheikh,17 El Geish Street,1,3.91
+426,Sobhy Kaber Branch 3,Hurghada,87 Corniche Road,1,3.82
+427,Felfela Branch 6,Marsa Alam,31 Tahrir Street,1,3.88
+428,Koshary El Tahrir Branch 6,Sharm El-Sheikh,85 El Geish Street,1,3.82
+429,Sobhy Kaber Branch 10,Hurghada,26 Corniche Road,1,3.05
+430,Felfela Branch 2,Sharm El-Sheikh,68 Tahrir Street,1,3.13
+431,Mahraja Branch 1,Cairo,30 Corniche Road,1,3.73
+432,Taboula Branch 8,Marsa Alam,79 Corniche Road,1,3.69
+433,Studio Misr Branch 1,Marsa Alam,13 Tahrir Street,1,4.25
+434,El Dahan Branch 3,Hurghada,32 Mohandessin Street,1,3.42
+435,Kazouza Branch 9,Hurghada,56 Mohandessin Street,1,3.84
+436,Studio Misr Branch 2,Cairo,18 Tahrir Street,1,4.63
+437,Taboula Branch 10,Hurghada,25 Corniche Road,1,4.59
+438,Kazouza Branch 10,Hurghada,67 Tahrir Street,1,3.35
+439,Abou Shakra Branch 2,Alexandria,93 Mohandessin Street,1,4.25
+440,Abou Shakra Branch 3,Hurghada,55 Corniche Road,1,3.07
+441,Kazouza Branch 2,Giza,90 Corniche Road,1,4.91
+442,Abou Shakra Branch 4,Giza,44 Tahrir Street,1,3.12
+443,Studio Misr Branch 2,Marsa Alam,79 Corniche Road,1,3.09
+444,Kazouza Branch 3,Hurghada,74 Corniche Road,1,3.28
+445,El Dahan Branch 6,Alexandria,24 Corniche Road,1,3.43
+446,Mahraja Branch 5,Alexandria,13 El Geish Street,1,3.74
+447,Mahraja Branch 1,Giza,67 Corniche Road,1,3.61
+448,Kazouza Branch 3,Marsa Alam,25 Tahrir Street,1,4.09
+449,Taboula Branch 3,Giza,80 El Geish Street,1,4.41
+450,Kazouza Branch 9,Alexandria,76 Corniche Road,1,3.71
+451,Koshary El Tahrir Branch 6,Giza,56 El Geish Street,1,4.96
+452,Taboula Branch 5,Alexandria,3 El Geish Street,1,4.5
+453,Sobhy Kaber Branch 9,Giza,93 Tahrir Street,1,3.88
+454,Sobhy Kaber Branch 4,Sharm El-Sheikh,12 Tahrir Street,1,3.59
+455,Studio Misr Branch 5,Marsa Alam,53 Corniche Road,1,3.69
+456,Gad Branch 7,Marsa Alam,92 Corniche Road,1,4.13
+457,Kazouza Branch 9,Sharm El-Sheikh,72 Tahrir Street,1,3.45
+458,Abou Shakra Branch 8,Marsa Alam,66 Tahrir Street,1,3.17
+459,Studio Misr Branch 5,Marsa Alam,53 Corniche Road,1,3.31
+460,Sobhy Kaber Branch 7,Marsa Alam,2 Tahrir Street,1,4.1
+461,El Dahan Branch 8,Giza,37 Tahrir Street,1,3.86
+462,Kazouza Branch 1,Hurghada,7 Mohandessin Street,1,4.95
+463,Studio Misr Branch 7,Hurghada,56 Tahrir Street,1,3.45
+464,El Dahan Branch 7,Sharm El-Sheikh,82 Tahrir Street,1,4.49
+465,Koshary El Tahrir Branch 6,Alexandria,10 Tahrir Street,1,3.65
+466,Felfela Branch 4,Alexandria,28 Mohandessin Street,1,3.51
+467,Gad Branch 5,Giza,66 Tahrir Street,1,3.05
+468,Sobhy Kaber Branch 1,Cairo,99 Tahrir Street,1,3.88
+469,Felfela Branch 2,Cairo,56 Corniche Road,1,4.61
+470,Abou Shakra Branch 5,Alexandria,67 Tahrir Street,1,4.18
+471,Koshary El Tahrir Branch 6,Hurghada,50 El Geish Street,1,4.55
+472,Felfela Branch 5,Marsa Alam,35 Tahrir Street,1,3.65
+473,El Dahan Branch 4,Giza,8 El Geish Street,1,4.61
+474,Koshary El Tahrir Branch 5,Sharm El-Sheikh,87 Mohandessin Street,1,4.15
+475,Gad Branch 1,Hurghada,71 Tahrir Street,1,4.08
+476,Koshary El Tahrir Branch 8,Giza,8 El Geish Street,1,4.12
+477,Mahraja Branch 1,Hurghada,58 Mohandessin Street,1,4.95
+478,Mahraja Branch 3,Marsa Alam,54 Corniche Road,1,3.05
+479,El Dahan Branch 8,Sharm El-Sheikh,21 Mohandessin Street,1,4.47
+480,El Dahan Branch 2,Alexandria,17 El Geish Street,1,3.92
+481,Sobhy Kaber Branch 6,Cairo,6 Mohandessin Street,1,3.79
+482,Kazouza Branch 2,Alexandria,23 Mohandessin Street,1,4.62
+483,Koshary El Tahrir Branch 5,Alexandria,61 Tahrir Street,1,4.0
+484,Felfela Branch 10,Cairo,76 El Geish Street,1,3.8
+485,Taboula Branch 3,Alexandria,39 Mohandessin Street,1,3.21
+486,Felfela Branch 5,Marsa Alam,37 Mohandessin Street,1,4.75
+487,Abou Shakra Branch 4,Giza,73 Corniche Road,1,3.33
+488,Abou Shakra Branch 7,Marsa Alam,38 Mohandessin Street,1,3.7
+489,Mahraja Branch 9,Hurghada,8 Tahrir Street,1,4.74
+490,Studio Misr Branch 9,Hurghada,12 Mohandessin Street,1,3.43
+491,Studio Misr Branch 1,Giza,38 Corniche Road,1,4.1
+492,Gad Branch 7,Marsa Alam,79 Mohandessin Street,1,4.79
+493,Gad Branch 3,Hurghada,58 Mohandessin Street,1,4.72
+494,Felfela Branch 7,Giza,87 Tahrir Street,1,3.85
+495,Koshary El Tahrir Branch 1,Hurghada,80 Mohandessin Street,1,3.03
+496,Felfela Branch 6,Giza,54 Corniche Road,1,4.66
+497,Taboula Branch 8,Giza,22 Mohandessin Street,1,3.22
+498,El Dahan Branch 2,Giza,30 El Geish Street,1,4.92
+499,El Dahan Branch 3,Giza,50 Corniche Road,1,4.48
+500,Abou Shakra Branch 2,Cairo,55 Corniche Road,1,3.86

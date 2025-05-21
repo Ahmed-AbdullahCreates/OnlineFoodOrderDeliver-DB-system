@@ -1,0 +1,1501 @@
+OrderID,OrderStatus,TotalPrice,OrderTime,UserID,SpecialInstructions,CancellationReason
+1,Pending,353.27,2024-12-27 03:37:05.442195,1,Extra spicy,Restaurant issue
+2,Completed,379.54,2024-12-28 17:37:05.442221,1,Separate packaging,N/A
+3,Cancelled,405.31,2024-12-24 20:37:05.442228,1,"No onions, please",Customer request
+4,Cancelled,416.39,2024-12-05 20:37:05.442236,2,"No onions, please",N/A
+5,Pending,294.74,2024-11-18 07:37:05.442242,2,Separate packaging,N/A
+6,Pending,341.9,2024-12-08 05:37:05.442249,2,Extra spicy,Restaurant issue
+7,Completed,260.48,2024-11-23 16:37:05.442258,3,Separate packaging,Restaurant issue
+8,Pending,403.44,2024-12-31 19:37:05.442267,3,"No onions, please",N/A
+9,Cancelled,361.64,2024-12-20 22:37:05.442273,3,Separate packaging,N/A
+10,Completed,163.24,2024-12-11 22:37:05.442279,4,"No onions, please",N/A
+11,Cancelled,393.41,2024-11-13 16:37:05.442285,4,Separate packaging,N/A
+12,Pending,364.19,2024-12-15 06:37:05.442290,4,Extra spicy,Customer request
+13,Completed,491.59,2024-11-13 15:37:05.442297,5,Separate packaging,Restaurant issue
+14,Completed,123.28,2024-11-04 09:37:05.442305,5,No special instructions,Restaurant issue
+15,Completed,135.29,2024-12-14 15:37:05.442315,5,"No onions, please",Restaurant issue
+16,Completed,438.18,2024-11-13 14:37:05.442326,6,"No onions, please",N/A
+17,Pending,364.3,2024-11-15 08:37:05.442333,6,Extra spicy,N/A
+18,Completed,101.13,2024-12-06 14:37:05.442338,6,"No onions, please",N/A
+19,Cancelled,443.28,2024-11-10 09:37:05.442344,7,No special instructions,Restaurant issue
+20,Pending,445.34,2024-11-06 02:37:05.442350,7,Separate packaging,N/A
+21,Cancelled,254.59,2024-12-09 23:37:05.442355,7,"No onions, please",Restaurant issue
+22,Cancelled,178.01,2024-12-08 16:37:05.442361,8,No special instructions,Customer request
+23,Cancelled,109.97,2024-11-24 06:37:05.442367,8,"No onions, please",N/A
+24,Pending,175.28,2024-11-17 22:37:05.442372,8,Separate packaging,N/A
+25,Completed,467.8,2024-11-30 02:37:05.442378,9,"No onions, please",N/A
+26,Completed,404.49,2024-12-07 04:37:05.442383,9,No special instructions,N/A
+27,Cancelled,395.92,2024-12-18 03:37:05.442389,9,Separate packaging,Restaurant issue
+28,Completed,192.79,2024-11-04 06:37:05.442396,10,"No onions, please",N/A
+29,Cancelled,213.8,2024-12-06 03:37:05.442401,10,Separate packaging,Customer request
+30,Cancelled,210.16,2024-12-08 15:37:05.442406,10,Extra spicy,Customer request
+31,Pending,244.87,2024-12-16 12:37:05.442422,11,Extra spicy,N/A
+32,Pending,230.27,2024-12-22 17:37:05.442428,11,"No onions, please",Restaurant issue
+33,Cancelled,258.5,2024-11-01 23:37:05.442433,11,Separate packaging,N/A
+34,Pending,197.71,2024-12-18 13:37:05.442439,12,Separate packaging,Restaurant issue
+35,Completed,222.63,2024-12-24 18:37:05.442445,12,Separate packaging,N/A
+36,Cancelled,150.18,2024-12-26 02:37:05.442450,12,No special instructions,N/A
+37,Pending,319.01,2024-11-19 23:37:05.442456,13,Separate packaging,N/A
+38,Cancelled,208.02,2024-12-06 09:37:05.442461,13,Extra spicy,Restaurant issue
+39,Pending,141.0,2024-11-22 05:37:05.442467,13,Extra spicy,N/A
+40,Completed,267.14,2024-12-23 06:37:05.442473,14,Extra spicy,N/A
+41,Cancelled,206.71,2024-12-05 18:37:05.442478,14,"No onions, please",Restaurant issue
+42,Completed,217.35,2024-12-07 20:37:05.442484,14,No special instructions,Restaurant issue
+43,Cancelled,207.34,2024-11-25 05:37:05.442490,15,Extra spicy,N/A
+44,Completed,457.65,2024-12-17 22:37:05.442496,15,"No onions, please",N/A
+45,Cancelled,236.84,2024-11-20 22:37:05.442501,15,"No onions, please",Restaurant issue
+46,Cancelled,433.85,2024-12-01 07:37:05.442508,16,"No onions, please",N/A
+47,Completed,305.36,2024-11-26 05:37:05.442513,16,"No onions, please",N/A
+48,Pending,373.33,2024-12-15 00:37:05.442519,16,No special instructions,N/A
+49,Cancelled,465.14,2024-11-13 01:37:05.442524,17,No special instructions,Restaurant issue
+50,Pending,401.02,2024-11-16 08:37:05.442530,17,No special instructions,N/A
+51,Pending,489.12,2024-12-17 11:37:05.442539,17,No special instructions,Restaurant issue
+52,Pending,235.3,2024-12-06 10:37:05.442549,18,No special instructions,N/A
+53,Pending,392.47,2024-11-22 15:37:05.442559,18,"No onions, please",N/A
+54,Cancelled,452.66,2024-12-21 12:37:05.442565,18,"No onions, please",Restaurant issue
+55,Completed,235.78,2024-11-19 10:37:05.442572,19,"No onions, please",N/A
+56,Completed,394.33,2024-11-09 21:37:05.442577,19,Separate packaging,Restaurant issue
+57,Cancelled,162.42,2024-11-22 13:37:05.442583,19,Separate packaging,N/A
+58,Completed,203.26,2024-12-07 21:37:05.442588,20,Separate packaging,Customer request
+59,Pending,121.32,2024-12-02 14:37:05.442594,20,"No onions, please",Restaurant issue
+60,Cancelled,388.13,2024-12-12 21:37:05.442600,20,No special instructions,N/A
+61,Cancelled,180.07,2024-12-27 06:37:05.442606,21,No special instructions,Restaurant issue
+62,Pending,157.64,2024-11-27 13:37:05.442620,21,Separate packaging,N/A
+63,Completed,439.5,2024-12-21 20:37:05.442629,21,"No onions, please",Customer request
+64,Completed,176.31,2024-12-15 02:37:05.442641,22,No special instructions,N/A
+65,Pending,303.29,2025-01-01 07:37:05.442646,22,Separate packaging,Customer request
+66,Pending,134.84,2024-11-29 20:37:05.442652,22,Separate packaging,Restaurant issue
+67,Pending,484.01,2024-11-11 02:37:05.442658,23,No special instructions,N/A
+68,Cancelled,123.61,2024-12-02 06:37:05.442663,23,Extra spicy,N/A
+69,Cancelled,427.08,2024-12-03 22:37:05.442668,23,Separate packaging,N/A
+70,Completed,322.61,2024-11-19 06:37:05.442674,24,Separate packaging,N/A
+71,Completed,367.73,2024-11-02 17:37:05.442679,24,"No onions, please",Restaurant issue
+72,Completed,209.12,2024-12-23 01:37:05.442685,24,Extra spicy,N/A
+73,Pending,461.93,2024-11-21 15:37:05.442690,25,No special instructions,N/A
+74,Completed,154.11,2024-11-05 07:37:05.442695,25,No special instructions,Restaurant issue
+75,Cancelled,361.53,2024-11-23 20:37:05.442701,25,Separate packaging,N/A
+76,Completed,218.22,2024-12-23 13:37:05.442711,26,No special instructions,Restaurant issue
+77,Pending,292.98,2024-11-01 19:37:05.442722,26,Extra spicy,Restaurant issue
+78,Pending,167.37,2024-12-08 00:37:05.442733,26,Extra spicy,N/A
+79,Pending,326.84,2024-11-17 13:37:05.442743,27,No special instructions,Customer request
+80,Completed,460.53,2024-11-03 01:37:05.442750,27,Separate packaging,Customer request
+81,Cancelled,158.58,2024-12-06 14:37:05.442756,27,Extra spicy,Customer request
+82,Cancelled,459.98,2024-11-23 03:37:05.442766,28,No special instructions,Restaurant issue
+83,Pending,266.25,2024-11-21 16:37:05.442776,28,Extra spicy,N/A
+84,Cancelled,273.71,2024-12-13 06:37:05.442785,28,"No onions, please",N/A
+85,Cancelled,282.82,2024-12-20 05:37:05.442795,29,No special instructions,Customer request
+86,Pending,205.96,2024-12-11 13:37:05.442807,29,"No onions, please",N/A
+87,Completed,198.03,2024-12-31 21:37:05.442814,29,Separate packaging,Customer request
+88,Pending,325.24,2024-12-03 10:37:05.442821,30,Separate packaging,Restaurant issue
+89,Completed,331.28,2024-12-29 05:37:05.442826,30,No special instructions,Customer request
+90,Pending,248.05,2024-11-08 06:37:05.442832,30,No special instructions,Customer request
+91,Cancelled,170.3,2024-12-25 05:37:05.442839,31,Extra spicy,Customer request
+92,Completed,210.91,2024-11-09 22:37:05.442845,31,No special instructions,Restaurant issue
+93,Pending,367.09,2024-11-06 17:37:05.442850,31,Separate packaging,N/A
+94,Completed,498.35,2024-12-08 03:37:05.442856,32,No special instructions,N/A
+95,Cancelled,378.0,2024-11-08 01:37:05.442861,32,"No onions, please",N/A
+96,Pending,181.86,2024-12-29 13:37:05.442868,32,No special instructions,N/A
+97,Completed,222.46,2024-11-27 08:37:05.442873,33,Separate packaging,N/A
+98,Completed,252.34,2024-12-01 05:37:05.442879,33,No special instructions,Restaurant issue
+99,Cancelled,211.81,2024-12-24 16:37:05.442885,33,Separate packaging,Customer request
+100,Pending,228.19,2024-12-05 01:37:05.442891,34,No special instructions,N/A
+101,Completed,386.67,2024-12-12 08:37:05.442897,34,Extra spicy,Customer request
+102,Completed,275.39,2024-12-25 13:37:05.442902,34,No special instructions,N/A
+103,Completed,182.83,2024-12-24 16:37:05.442908,35,No special instructions,N/A
+104,Pending,414.15,2024-12-12 14:37:05.442913,35,Separate packaging,N/A
+105,Cancelled,377.91,2024-11-10 12:37:05.442919,35,"No onions, please",Restaurant issue
+106,Cancelled,134.03,2024-12-11 01:37:05.442925,36,No special instructions,Customer request
+107,Cancelled,253.51,2024-12-24 16:37:05.442930,36,No special instructions,Customer request
+108,Cancelled,233.22,2024-11-19 02:37:05.442936,36,"No onions, please",Customer request
+109,Completed,271.69,2024-11-26 15:37:05.442942,37,Extra spicy,N/A
+110,Cancelled,123.75,2024-11-07 06:37:05.442955,37,Separate packaging,Customer request
+111,Cancelled,313.84,2024-11-08 04:37:05.442965,37,"No onions, please",Customer request
+112,Pending,207.24,2024-12-25 14:37:05.442972,38,No special instructions,N/A
+113,Cancelled,474.2,2024-11-09 14:37:05.442977,38,No special instructions,Customer request
+114,Cancelled,233.58,2024-12-09 16:37:05.442983,38,Separate packaging,N/A
+115,Cancelled,450.07,2024-12-30 07:37:05.442988,39,"No onions, please",Restaurant issue
+116,Cancelled,362.64,2024-12-13 22:37:05.442994,39,Extra spicy,N/A
+117,Completed,399.99,2024-11-03 12:37:05.442999,39,Separate packaging,Restaurant issue
+118,Pending,262.31,2024-12-26 23:37:05.443005,40,"No onions, please",N/A
+119,Cancelled,223.23,2024-12-27 22:37:05.443010,40,Separate packaging,Customer request
+120,Completed,373.53,2024-11-24 04:37:05.443016,40,No special instructions,Customer request
+121,Pending,437.28,2024-12-13 17:37:05.443022,41,Separate packaging,N/A
+122,Cancelled,325.55,2024-12-02 23:37:05.443029,41,"No onions, please",Restaurant issue
+123,Completed,460.46,2024-12-01 11:37:05.443041,41,Extra spicy,N/A
+124,Completed,137.8,2024-11-14 21:37:05.443048,42,No special instructions,N/A
+125,Cancelled,167.25,2024-12-03 13:37:05.443054,42,Separate packaging,N/A
+126,Completed,178.13,2024-11-13 17:37:05.443059,42,Extra spicy,N/A
+127,Cancelled,317.72,2024-11-13 18:37:05.443065,43,No special instructions,N/A
+128,Cancelled,407.11,2024-11-19 16:37:05.443071,43,Separate packaging,N/A
+129,Cancelled,149.98,2024-11-25 14:37:05.443077,43,No special instructions,N/A
+130,Completed,351.5,2024-12-11 05:37:05.443083,44,No special instructions,N/A
+131,Completed,482.37,2024-11-15 18:37:05.443089,44,Separate packaging,N/A
+132,Completed,490.01,2024-12-27 14:37:05.443099,44,"No onions, please",N/A
+133,Cancelled,447.84,2024-11-18 05:37:05.443108,45,No special instructions,N/A
+134,Completed,234.56,2024-11-22 11:37:05.443117,45,No special instructions,N/A
+135,Completed,318.54,2024-12-04 20:37:05.443127,45,Separate packaging,Restaurant issue
+136,Cancelled,246.23,2024-11-24 10:37:05.443135,46,Extra spicy,N/A
+137,Pending,174.74,2024-12-31 07:37:05.443141,46,"No onions, please",N/A
+138,Cancelled,493.99,2024-11-16 06:37:05.443146,46,No special instructions,Customer request
+139,Pending,136.24,2024-11-03 06:37:05.443152,47,Extra spicy,N/A
+140,Pending,162.85,2024-11-23 03:37:05.443157,47,Separate packaging,Customer request
+141,Cancelled,354.52,2024-11-13 10:37:05.443163,47,No special instructions,Customer request
+142,Pending,145.08,2024-11-27 21:37:05.443169,48,No special instructions,N/A
+143,Pending,110.45,2024-12-21 20:37:05.443175,48,Separate packaging,Customer request
+144,Pending,465.37,2024-12-22 09:37:05.443181,48,"No onions, please",N/A
+145,Pending,171.93,2024-12-11 08:37:05.443186,49,Separate packaging,N/A
+146,Pending,314.68,2024-12-19 16:37:05.443191,49,"No onions, please",N/A
+147,Pending,359.15,2024-11-06 16:37:05.443200,49,Separate packaging,Restaurant issue
+148,Cancelled,278.37,2024-12-11 10:37:05.443211,50,Separate packaging,Customer request
+149,Cancelled,158.43,2024-12-22 05:37:05.443219,50,Extra spicy,N/A
+150,Pending,368.74,2024-12-25 03:37:05.443225,50,"No onions, please",N/A
+151,Pending,410.22,2024-12-25 05:37:05.443230,51,"No onions, please",N/A
+152,Cancelled,441.57,2024-12-25 18:37:05.443236,51,No special instructions,Customer request
+153,Pending,358.13,2024-11-03 04:37:05.443241,51,"No onions, please",Customer request
+154,Cancelled,138.91,2024-11-28 13:37:05.443247,52,Extra spicy,Restaurant issue
+155,Cancelled,155.86,2024-11-17 15:37:05.443253,52,No special instructions,Customer request
+156,Cancelled,394.76,2024-11-18 15:37:05.443259,52,No special instructions,Restaurant issue
+157,Cancelled,234.67,2024-11-10 08:37:05.443265,53,Extra spicy,Restaurant issue
+158,Completed,358.91,2024-12-06 21:37:05.443270,53,"No onions, please",Restaurant issue
+159,Pending,436.87,2024-12-06 23:37:05.443276,53,Separate packaging,N/A
+160,Pending,138.39,2024-11-25 18:37:05.443288,54,"No onions, please",Customer request
+161,Cancelled,333.07,2024-11-02 07:37:05.443298,54,Separate packaging,Customer request
+162,Cancelled,293.74,2024-11-12 19:37:05.443304,54,No special instructions,Restaurant issue
+163,Pending,154.78,2024-11-06 19:37:05.443311,55,Separate packaging,N/A
+164,Completed,348.79,2024-11-14 09:37:05.443316,55,Extra spicy,N/A
+165,Completed,358.96,2024-11-10 16:37:05.443321,55,"No onions, please",Restaurant issue
+166,Pending,214.34,2024-11-01 17:37:05.443327,56,No special instructions,N/A
+167,Pending,214.95,2024-11-07 20:37:05.443332,56,"No onions, please",Customer request
+168,Cancelled,422.3,2024-11-21 05:37:05.443338,56,"No onions, please",Customer request
+169,Completed,399.39,2024-12-17 00:37:05.443344,57,Separate packaging,N/A
+170,Pending,483.87,2024-11-17 08:37:05.443349,57,Extra spicy,Restaurant issue
+171,Cancelled,494.06,2024-12-01 05:37:05.443355,57,"No onions, please",N/A
+172,Cancelled,285.04,2024-12-14 13:37:05.443361,58,Extra spicy,Customer request
+173,Pending,345.77,2024-11-24 16:37:05.443372,58,No special instructions,N/A
+174,Completed,433.26,2024-12-20 14:37:05.443382,58,No special instructions,N/A
+175,Cancelled,303.33,2024-11-12 17:37:05.443388,59,No special instructions,Customer request
+176,Completed,355.41,2024-11-29 11:37:05.443394,59,No special instructions,Customer request
+177,Cancelled,134.29,2024-12-13 11:37:05.443400,59,Separate packaging,Restaurant issue
+178,Pending,102.15,2024-12-14 23:37:05.443405,60,Extra spicy,Customer request
+179,Pending,311.66,2024-12-13 23:37:05.443412,60,Extra spicy,Customer request
+180,Cancelled,119.92,2024-11-14 09:37:05.443418,60,Separate packaging,Restaurant issue
+181,Completed,476.4,2024-12-22 01:37:05.443424,61,Extra spicy,Restaurant issue
+182,Completed,453.61,2024-12-05 21:37:05.443429,61,"No onions, please",Restaurant issue
+183,Cancelled,450.22,2024-12-11 08:37:05.443435,61,"No onions, please",N/A
+184,Completed,436.15,2024-11-27 20:37:05.443441,62,Separate packaging,Restaurant issue
+185,Pending,168.56,2024-12-09 03:37:05.443451,62,"No onions, please",Customer request
+186,Completed,413.78,2024-11-07 16:37:05.443461,62,No special instructions,Customer request
+187,Completed,433.2,2024-12-12 10:37:05.443467,63,Extra spicy,Customer request
+188,Cancelled,199.79,2024-12-29 08:37:05.443473,63,"No onions, please",N/A
+189,Pending,168.73,2024-11-30 02:37:05.443478,63,Extra spicy,N/A
+190,Pending,288.3,2024-12-30 07:37:05.443484,64,Extra spicy,N/A
+191,Cancelled,321.85,2024-12-25 11:37:05.443489,64,Extra spicy,Customer request
+192,Cancelled,473.91,2024-11-10 00:37:05.443496,64,Separate packaging,N/A
+193,Completed,282.28,2024-12-02 21:37:05.443502,65,Extra spicy,N/A
+194,Pending,420.62,2024-12-17 15:37:05.443507,65,"No onions, please",Customer request
+195,Completed,170.44,2024-11-22 19:37:05.443513,65,"No onions, please",N/A
+196,Completed,161.16,2024-12-23 13:37:05.443518,66,Extra spicy,Customer request
+197,Completed,240.49,2024-11-14 17:37:05.443525,66,Extra spicy,Customer request
+198,Cancelled,195.5,2024-12-24 07:37:05.443537,66,No special instructions,N/A
+199,Completed,288.01,2024-12-03 15:37:05.443544,67,Extra spicy,Customer request
+200,Pending,162.95,2024-11-07 11:37:05.443549,67,Extra spicy,N/A
+201,Completed,369.11,2024-12-14 05:37:05.443555,67,Extra spicy,N/A
+202,Completed,147.4,2024-12-25 12:37:05.443562,68,Separate packaging,N/A
+203,Completed,345.19,2024-11-21 13:37:05.443568,68,Extra spicy,Customer request
+204,Cancelled,348.85,2024-12-12 11:37:05.443574,68,No special instructions,Customer request
+205,Cancelled,215.07,2024-11-02 13:37:05.443581,69,Extra spicy,N/A
+206,Completed,443.72,2024-11-11 21:37:05.443586,69,No special instructions,Restaurant issue
+207,Cancelled,442.66,2024-12-17 04:37:05.443592,69,"No onions, please",N/A
+208,Cancelled,497.27,2024-11-30 02:37:05.443598,70,Separate packaging,N/A
+209,Completed,117.58,2024-12-08 22:37:05.443603,70,Separate packaging,N/A
+210,Cancelled,224.58,2024-11-30 09:37:05.443608,70,"No onions, please",N/A
+211,Pending,479.47,2024-12-01 06:37:05.443614,71,No special instructions,Restaurant issue
+212,Completed,466.27,2024-12-22 18:37:05.443620,71,"No onions, please",N/A
+213,Cancelled,253.59,2024-12-06 16:37:05.443625,71,Extra spicy,Restaurant issue
+214,Cancelled,441.81,2024-11-20 08:37:05.443632,72,Separate packaging,Restaurant issue
+215,Completed,398.96,2024-12-09 12:37:05.443637,72,Extra spicy,Restaurant issue
+216,Completed,456.18,2024-12-22 07:37:05.443643,72,"No onions, please",N/A
+217,Cancelled,130.78,2024-11-19 13:37:05.443649,73,No special instructions,Restaurant issue
+218,Pending,104.67,2024-11-11 08:37:05.443654,73,"No onions, please",N/A
+219,Completed,202.38,2024-11-17 07:37:05.443660,73,Separate packaging,N/A
+220,Completed,294.75,2024-11-08 21:37:05.443665,74,No special instructions,Restaurant issue
+221,Completed,123.83,2024-12-08 11:37:05.443671,74,No special instructions,N/A
+222,Pending,229.94,2024-12-01 04:37:05.443676,74,Separate packaging,Customer request
+223,Cancelled,401.38,2024-12-29 23:37:05.443683,75,Separate packaging,Customer request
+224,Cancelled,195.89,2024-11-15 16:37:05.443689,75,Separate packaging,Restaurant issue
+225,Pending,405.65,2024-11-29 16:37:05.443695,75,"No onions, please",Customer request
+226,Cancelled,479.07,2024-12-29 15:37:05.443702,76,"No onions, please",Customer request
+227,Cancelled,137.48,2024-12-31 19:37:05.443708,76,Separate packaging,Customer request
+228,Pending,333.08,2024-12-23 19:37:05.443714,76,Separate packaging,Restaurant issue
+229,Pending,358.38,2024-12-18 19:37:05.443720,77,"No onions, please",Customer request
+230,Cancelled,442.54,2024-11-30 20:37:05.443726,77,Separate packaging,N/A
+231,Completed,265.06,2024-12-24 05:37:05.443731,77,No special instructions,Restaurant issue
+232,Pending,164.45,2024-11-30 08:37:05.443737,78,No special instructions,N/A
+233,Pending,243.53,2024-11-25 13:37:05.443743,78,"No onions, please",Restaurant issue
+234,Completed,169.9,2024-12-18 06:37:05.443749,78,Extra spicy,Restaurant issue
+235,Pending,245.99,2024-11-30 14:37:05.443755,79,"No onions, please",N/A
+236,Cancelled,452.68,2024-12-05 13:37:05.443760,79,No special instructions,N/A
+237,Pending,127.26,2024-11-08 14:37:05.443765,79,"No onions, please",Restaurant issue
+238,Completed,467.98,2024-12-12 20:37:05.443771,80,Separate packaging,Customer request
+239,Pending,166.17,2025-01-01 02:37:05.443777,80,Separate packaging,Customer request
+240,Pending,315.24,2024-12-05 04:37:05.443783,80,"No onions, please",Restaurant issue
+241,Pending,157.58,2024-11-18 22:37:05.443789,81,No special instructions,N/A
+242,Pending,216.17,2024-12-23 14:37:05.443794,81,Separate packaging,Restaurant issue
+243,Pending,331.58,2024-11-12 15:37:05.443800,81,Separate packaging,Customer request
+244,Pending,122.74,2024-11-10 22:37:05.443811,82,No special instructions,N/A
+245,Pending,106.04,2024-12-16 22:37:05.443821,82,No special instructions,N/A
+246,Pending,245.36,2024-12-20 14:37:05.443827,82,No special instructions,N/A
+247,Completed,435.17,2024-11-19 22:37:05.443832,83,"No onions, please",Customer request
+248,Completed,149.05,2024-11-26 07:37:05.443838,83,"No onions, please",Customer request
+249,Completed,239.77,2024-11-24 20:37:05.443845,83,Extra spicy,N/A
+250,Completed,201.51,2024-12-01 06:37:05.443856,84,No special instructions,Restaurant issue
+251,Pending,192.35,2024-11-08 14:37:05.443865,84,Extra spicy,N/A
+252,Completed,179.08,2024-12-18 09:37:05.443870,84,"No onions, please",Customer request
+253,Completed,298.94,2024-12-06 17:37:05.443876,85,"No onions, please",N/A
+254,Cancelled,395.32,2024-11-28 05:37:05.443882,85,No special instructions,Restaurant issue
+255,Completed,121.21,2024-12-11 18:37:05.443887,85,Separate packaging,N/A
+256,Pending,459.82,2024-11-24 20:37:05.443894,86,Separate packaging,Restaurant issue
+257,Cancelled,407.89,2024-12-04 20:37:05.443900,86,"No onions, please",N/A
+258,Completed,389.52,2024-12-01 21:37:05.443906,86,Separate packaging,N/A
+259,Completed,456.14,2024-12-22 07:37:05.443911,87,Extra spicy,N/A
+260,Pending,246.16,2024-11-18 03:37:05.443917,87,No special instructions,N/A
+261,Completed,207.58,2024-11-19 06:37:05.443923,87,No special instructions,Customer request
+262,Completed,283.21,2024-12-15 21:37:05.443929,88,No special instructions,N/A
+263,Pending,341.31,2024-11-29 00:37:05.443935,88,No special instructions,Restaurant issue
+264,Completed,192.61,2024-11-10 19:37:05.443941,88,Separate packaging,N/A
+265,Cancelled,473.65,2024-12-19 15:37:05.443947,89,No special instructions,N/A
+266,Cancelled,357.21,2024-11-17 01:37:05.443952,89,"No onions, please",N/A
+267,Completed,162.33,2024-12-04 16:37:05.443957,89,"No onions, please",N/A
+268,Pending,398.04,2024-12-10 00:37:05.443963,90,Separate packaging,Restaurant issue
+269,Completed,116.34,2024-11-06 10:37:05.443969,90,Extra spicy,Restaurant issue
+270,Cancelled,381.5,2024-11-20 03:37:05.443975,90,Separate packaging,N/A
+271,Cancelled,106.03,2024-12-03 22:37:05.443981,91,Separate packaging,N/A
+272,Completed,462.52,2024-12-20 08:37:05.443986,91,Separate packaging,Restaurant issue
+273,Cancelled,239.84,2024-11-04 16:37:05.443992,91,"No onions, please",N/A
+274,Cancelled,273.99,2024-11-16 20:37:05.443997,92,"No onions, please",Customer request
+275,Pending,305.08,2024-12-12 05:37:05.444003,92,No special instructions,Restaurant issue
+276,Pending,242.95,2024-11-04 09:37:05.444009,92,"No onions, please",N/A
+277,Pending,402.41,2024-11-20 11:37:05.444014,93,Separate packaging,N/A
+278,Cancelled,443.25,2024-12-26 14:37:05.444020,93,Extra spicy,Restaurant issue
+279,Completed,199.93,2024-11-15 21:37:05.444026,93,"No onions, please",N/A
+280,Pending,472.12,2024-12-22 03:37:05.444032,94,Extra spicy,N/A
+281,Cancelled,266.48,2024-11-13 05:37:05.444037,94,"No onions, please",Restaurant issue
+282,Completed,385.08,2024-12-25 13:37:05.444043,94,No special instructions,Restaurant issue
+283,Completed,362.25,2024-11-28 18:37:05.444049,95,No special instructions,N/A
+284,Cancelled,418.09,2024-12-18 11:37:05.444054,95,Extra spicy,Restaurant issue
+285,Completed,410.52,2024-11-25 02:37:05.444060,95,No special instructions,N/A
+286,Completed,355.3,2025-01-01 10:37:05.444066,96,No special instructions,N/A
+287,Completed,432.95,2024-12-23 22:37:05.444072,96,Extra spicy,Customer request
+288,Completed,491.53,2024-11-22 14:37:05.444079,96,No special instructions,N/A
+289,Pending,178.87,2024-12-13 20:37:05.444084,97,No special instructions,Customer request
+290,Completed,425.98,2024-12-01 23:37:05.444090,97,No special instructions,N/A
+291,Pending,418.82,2024-12-15 21:37:05.444095,97,Extra spicy,N/A
+292,Completed,471.35,2024-12-20 03:37:05.444101,98,Extra spicy,N/A
+293,Cancelled,241.62,2024-12-11 20:37:05.444107,98,Separate packaging,N/A
+294,Completed,387.73,2024-11-10 20:37:05.444112,98,Extra spicy,Restaurant issue
+295,Cancelled,422.46,2024-12-06 07:37:05.444118,99,Extra spicy,N/A
+296,Pending,465.58,2024-11-12 04:37:05.444123,99,"No onions, please",Customer request
+297,Completed,339.34,2024-11-24 13:37:05.444129,99,"No onions, please",N/A
+298,Cancelled,192.09,2024-11-20 03:37:05.444134,100,"No onions, please",Restaurant issue
+299,Pending,219.89,2024-11-16 23:37:05.444140,100,No special instructions,Customer request
+300,Pending,156.14,2024-11-04 12:37:05.444146,100,Separate packaging,Customer request
+301,Pending,423.15,2024-11-26 01:37:05.444152,101,Separate packaging,N/A
+302,Pending,190.8,2024-12-14 18:37:05.444158,101,"No onions, please",N/A
+303,Cancelled,426.82,2024-12-22 13:37:05.444163,101,Separate packaging,N/A
+304,Cancelled,376.51,2024-12-09 17:37:05.444169,102,Extra spicy,Customer request
+305,Cancelled,430.11,2024-12-11 04:37:05.444178,102,Separate packaging,N/A
+306,Cancelled,136.6,2024-11-11 04:37:05.444188,102,No special instructions,N/A
+307,Completed,251.86,2024-12-02 05:37:05.444198,103,"No onions, please",Restaurant issue
+308,Completed,182.35,2024-11-25 20:37:05.444208,103,"No onions, please",Customer request
+309,Pending,376.07,2024-11-16 01:37:05.444214,103,"No onions, please",N/A
+310,Completed,461.94,2024-11-27 08:37:05.444221,104,No special instructions,N/A
+311,Completed,414.19,2024-11-27 12:37:05.444227,104,Extra spicy,Restaurant issue
+312,Cancelled,211.36,2024-12-26 16:37:05.444233,104,Extra spicy,Restaurant issue
+313,Pending,101.38,2024-11-19 23:37:05.444239,105,Extra spicy,N/A
+314,Cancelled,217.78,2024-11-15 05:37:05.444244,105,Extra spicy,Restaurant issue
+315,Pending,448.28,2024-12-11 13:37:05.444250,105,"No onions, please",Restaurant issue
+316,Pending,251.4,2024-12-27 19:37:05.444256,106,Extra spicy,Customer request
+317,Cancelled,372.9,2024-12-20 06:37:05.444262,106,Separate packaging,N/A
+318,Completed,159.38,2024-11-23 17:37:05.444267,106,Extra spicy,N/A
+319,Pending,452.35,2024-12-19 18:37:05.444273,107,"No onions, please",N/A
+320,Completed,152.06,2024-12-30 04:37:05.444279,107,Separate packaging,N/A
+321,Cancelled,464.02,2024-11-07 12:37:05.444285,107,Separate packaging,N/A
+322,Cancelled,267.39,2024-12-25 20:37:05.444290,108,"No onions, please",N/A
+323,Cancelled,135.83,2024-11-16 22:37:05.444297,108,Extra spicy,N/A
+324,Completed,464.83,2024-12-10 13:37:05.444302,108,Separate packaging,N/A
+325,Completed,395.08,2024-11-05 17:37:05.444308,109,Extra spicy,Customer request
+326,Cancelled,272.05,2024-11-30 02:37:05.444314,109,No special instructions,Restaurant issue
+327,Pending,150.24,2024-11-09 13:37:05.444320,109,Separate packaging,N/A
+328,Cancelled,340.73,2024-11-07 06:37:05.444325,110,Extra spicy,Customer request
+329,Completed,446.98,2024-11-29 08:37:05.444331,110,Extra spicy,N/A
+330,Cancelled,483.35,2024-12-17 18:37:05.444337,110,Extra spicy,Restaurant issue
+331,Cancelled,307.92,2024-11-13 17:37:05.444343,111,Separate packaging,N/A
+332,Cancelled,490.31,2024-11-05 16:37:05.444349,111,Separate packaging,N/A
+333,Completed,228.92,2024-11-09 03:37:05.444354,111,No special instructions,Restaurant issue
+334,Cancelled,382.49,2024-11-20 13:37:05.444360,112,Separate packaging,N/A
+335,Cancelled,203.31,2024-11-11 06:37:05.444365,112,Extra spicy,N/A
+336,Completed,115.96,2024-12-16 00:37:05.444371,112,Extra spicy,N/A
+337,Pending,209.49,2024-12-03 06:37:05.444378,113,Extra spicy,N/A
+338,Pending,394.04,2024-12-29 19:37:05.444387,113,No special instructions,Restaurant issue
+339,Cancelled,467.95,2024-11-02 16:37:05.444396,113,Separate packaging,Customer request
+340,Completed,240.75,2024-12-29 07:37:05.444408,114,"No onions, please",Customer request
+341,Pending,377.23,2024-11-09 08:37:05.444415,114,No special instructions,N/A
+342,Completed,370.07,2024-11-08 02:37:05.444420,114,"No onions, please",N/A
+343,Cancelled,491.92,2024-11-27 09:37:05.444425,115,Extra spicy,Customer request
+344,Pending,137.75,2024-12-05 13:37:05.444431,115,"No onions, please",N/A
+345,Pending,164.98,2024-11-02 19:37:05.444437,115,No special instructions,N/A
+346,Completed,437.31,2024-11-19 00:37:05.444442,116,No special instructions,Restaurant issue
+347,Pending,387.01,2024-11-24 23:37:05.444448,116,Extra spicy,Customer request
+348,Completed,137.09,2024-11-12 10:37:05.444454,116,Separate packaging,Restaurant issue
+349,Completed,252.32,2024-12-14 10:37:05.444460,117,"No onions, please",Customer request
+350,Pending,366.53,2024-12-18 07:37:05.444466,117,Extra spicy,N/A
+351,Completed,254.18,2024-12-09 20:37:05.444471,117,No special instructions,N/A
+352,Completed,339.19,2024-12-26 23:37:05.444478,118,No special instructions,Customer request
+353,Cancelled,437.82,2024-11-18 03:37:05.444484,118,"No onions, please",N/A
+354,Cancelled,110.69,2024-12-25 08:37:05.444491,118,"No onions, please",N/A
+355,Pending,296.67,2025-01-01 01:37:05.444496,119,Extra spicy,Restaurant issue
+356,Cancelled,142.99,2024-11-17 09:37:05.444502,119,"No onions, please",N/A
+357,Cancelled,264.75,2024-12-09 13:37:05.444507,119,Extra spicy,N/A
+358,Completed,118.33,2024-12-11 13:37:05.444513,120,Extra spicy,N/A
+359,Completed,284.55,2024-12-05 13:37:05.444518,120,Extra spicy,N/A
+360,Pending,448.07,2024-12-10 19:37:05.444524,120,"No onions, please",Restaurant issue
+361,Completed,431.29,2024-12-03 17:37:05.444530,121,"No onions, please",Customer request
+362,Pending,146.87,2024-12-18 22:37:05.444535,121,Extra spicy,N/A
+363,Pending,208.85,2024-12-20 04:37:05.444541,121,Separate packaging,Customer request
+364,Completed,116.24,2024-11-09 01:37:05.444547,122,No special instructions,N/A
+365,Cancelled,489.62,2024-12-08 00:37:05.444552,122,"No onions, please",Customer request
+366,Completed,309.09,2024-12-13 07:37:05.444558,122,"No onions, please",N/A
+367,Pending,451.83,2024-12-17 21:37:05.444563,123,Extra spicy,Customer request
+368,Cancelled,292.5,2024-12-09 22:37:05.444569,123,Separate packaging,Customer request
+369,Cancelled,316.37,2024-11-30 09:37:05.444575,123,Separate packaging,Customer request
+370,Pending,491.66,2024-12-02 22:37:05.444581,124,Extra spicy,N/A
+371,Pending,324.61,2024-11-23 15:37:05.444586,124,Extra spicy,N/A
+372,Completed,435.27,2024-11-12 14:37:05.444592,124,"No onions, please",N/A
+373,Cancelled,138.63,2024-12-14 15:37:05.444597,125,Extra spicy,Restaurant issue
+374,Cancelled,267.93,2024-12-27 11:37:05.444603,125,Extra spicy,N/A
+375,Completed,367.99,2024-12-17 21:37:05.444608,125,Extra spicy,Restaurant issue
+376,Pending,315.98,2024-12-09 02:37:05.444614,126,"No onions, please",N/A
+377,Completed,442.46,2024-12-27 16:37:05.444620,126,Separate packaging,Customer request
+378,Completed,165.84,2024-12-23 12:37:05.444626,126,Extra spicy,N/A
+379,Pending,212.99,2024-11-24 08:37:05.444631,127,Separate packaging,Customer request
+380,Cancelled,129.12,2024-11-12 12:37:05.444637,127,"No onions, please",Restaurant issue
+381,Completed,143.61,2024-11-11 14:37:05.444643,127,"No onions, please",N/A
+382,Completed,246.34,2024-12-28 18:37:05.444649,128,Extra spicy,Restaurant issue
+383,Pending,276.85,2024-11-27 16:37:05.444655,128,"No onions, please",N/A
+384,Completed,492.45,2024-11-09 11:37:05.444662,128,"No onions, please",N/A
+385,Completed,454.69,2024-11-06 00:37:05.444667,129,Separate packaging,Restaurant issue
+386,Pending,336.67,2024-12-07 11:37:05.444673,129,Separate packaging,Customer request
+387,Cancelled,477.5,2024-11-07 02:37:05.444679,129,No special instructions,N/A
+388,Completed,256.21,2024-11-10 14:37:05.444684,130,Separate packaging,Customer request
+389,Cancelled,301.92,2024-11-10 01:37:05.444690,130,"No onions, please",N/A
+390,Pending,461.09,2024-11-15 09:37:05.444695,130,Extra spicy,N/A
+391,Cancelled,122.12,2024-11-23 06:37:05.444701,131,Extra spicy,Customer request
+392,Completed,344.86,2024-11-16 00:37:05.444707,131,Extra spicy,N/A
+393,Completed,426.99,2024-11-05 00:37:05.444712,131,No special instructions,Restaurant issue
+394,Pending,269.05,2024-12-22 12:37:05.444718,132,Extra spicy,Customer request
+395,Cancelled,422.25,2024-11-21 11:37:05.444724,132,Separate packaging,Customer request
+396,Pending,269.09,2024-11-10 04:37:05.444730,132,Extra spicy,Customer request
+397,Cancelled,149.98,2024-11-02 13:37:05.444736,133,Extra spicy,Customer request
+398,Cancelled,126.69,2024-12-19 15:37:05.444742,133,No special instructions,N/A
+399,Completed,162.14,2024-11-11 15:37:05.444747,133,Separate packaging,N/A
+400,Pending,392.05,2024-11-11 02:37:05.444753,134,"No onions, please",Restaurant issue
+401,Completed,383.82,2024-12-03 00:37:05.444759,134,"No onions, please",Restaurant issue
+402,Pending,134.52,2024-11-05 05:37:05.444766,134,No special instructions,N/A
+403,Cancelled,343.13,2024-12-20 10:37:05.444772,135,Separate packaging,N/A
+404,Pending,235.92,2024-12-13 17:37:05.444777,135,Separate packaging,Customer request
+405,Cancelled,496.46,2024-11-07 10:37:05.444783,135,Separate packaging,Customer request
+406,Pending,211.74,2024-12-21 20:37:05.444789,136,"No onions, please",N/A
+407,Cancelled,211.03,2024-12-29 08:37:05.444795,136,No special instructions,Customer request
+408,Cancelled,286.2,2024-12-08 11:37:05.444800,136,Separate packaging,N/A
+409,Pending,316.3,2024-11-08 20:37:05.444806,137,"No onions, please",Customer request
+410,Cancelled,431.86,2024-12-21 06:37:05.444812,137,No special instructions,Restaurant issue
+411,Completed,291.86,2024-12-08 23:37:05.444817,137,No special instructions,N/A
+412,Cancelled,176.14,2024-12-24 03:37:05.444823,138,Extra spicy,N/A
+413,Cancelled,385.47,2024-11-03 22:37:05.444829,138,"No onions, please",N/A
+414,Completed,351.62,2024-11-19 11:37:05.444834,138,Extra spicy,N/A
+415,Cancelled,487.16,2024-11-09 01:37:05.444839,139,"No onions, please",N/A
+416,Completed,348.66,2024-12-27 08:37:05.444845,139,Extra spicy,N/A
+417,Completed,340.79,2024-12-25 13:37:05.444851,139,Separate packaging,Restaurant issue
+418,Pending,345.04,2024-12-21 10:37:05.444856,140,Extra spicy,N/A
+419,Completed,246.84,2024-12-06 12:37:05.444862,140,Separate packaging,Customer request
+420,Completed,417.55,2024-12-12 06:37:05.444868,140,Separate packaging,Restaurant issue
+421,Completed,485.11,2024-11-18 23:37:05.444874,141,No special instructions,Customer request
+422,Completed,398.45,2024-11-27 13:37:05.444884,141,"No onions, please",Customer request
+423,Completed,179.55,2024-12-12 07:37:05.444895,141,No special instructions,Customer request
+424,Cancelled,333.06,2024-12-05 09:37:05.444903,142,Extra spicy,Customer request
+425,Pending,123.41,2024-11-26 02:37:05.444909,142,No special instructions,Customer request
+426,Cancelled,404.06,2024-12-08 12:37:05.444914,142,Extra spicy,Restaurant issue
+427,Pending,123.73,2024-11-22 05:37:05.444923,143,No special instructions,Customer request
+428,Cancelled,293.84,2024-12-02 03:37:05.444934,143,No special instructions,N/A
+429,Pending,495.95,2024-11-05 07:37:05.444941,143,No special instructions,Customer request
+430,Pending,365.52,2024-12-09 16:37:05.444947,144,"No onions, please",N/A
+431,Completed,166.11,2024-12-07 11:37:05.444953,144,No special instructions,Restaurant issue
+432,Completed,438.63,2024-12-28 21:37:05.444959,144,Separate packaging,Restaurant issue
+433,Completed,189.38,2024-12-21 10:37:05.444965,145,Separate packaging,N/A
+434,Cancelled,126.93,2024-12-21 18:37:05.444970,145,Separate packaging,Restaurant issue
+435,Cancelled,103.25,2024-12-06 13:37:05.444976,145,Separate packaging,N/A
+436,Cancelled,341.88,2024-11-21 18:37:05.444982,146,No special instructions,N/A
+437,Completed,473.29,2024-12-01 06:37:05.444987,146,Separate packaging,N/A
+438,Cancelled,310.24,2024-12-11 22:37:05.444992,146,Extra spicy,Customer request
+439,Completed,356.43,2024-12-23 02:37:05.444999,147,"No onions, please",N/A
+440,Completed,405.36,2024-12-04 00:37:05.445005,147,No special instructions,N/A
+441,Cancelled,398.64,2024-12-16 04:37:05.445010,147,Extra spicy,Customer request
+442,Completed,264.98,2024-11-02 05:37:05.445016,148,Separate packaging,N/A
+443,Completed,361.63,2024-11-20 12:37:05.445022,148,"No onions, please",N/A
+444,Pending,412.62,2024-11-10 10:37:05.445027,148,"No onions, please",N/A
+445,Completed,449.83,2024-12-31 03:37:05.445033,149,Extra spicy,Customer request
+446,Completed,348.82,2024-12-17 18:37:05.445038,149,Separate packaging,N/A
+447,Cancelled,270.19,2024-11-21 19:37:05.445044,149,No special instructions,N/A
+448,Cancelled,311.0,2024-12-19 16:37:05.445050,150,No special instructions,Customer request
+449,Pending,195.04,2024-12-24 22:37:05.445056,150,Extra spicy,N/A
+450,Pending,123.67,2024-12-29 10:37:05.445062,150,Separate packaging,N/A
+451,Cancelled,448.02,2024-11-23 18:37:05.445068,151,No special instructions,N/A
+452,Completed,430.66,2024-11-07 09:37:05.445073,151,Separate packaging,N/A
+453,Pending,237.29,2024-12-05 13:37:05.445078,151,Separate packaging,Restaurant issue
+454,Pending,391.34,2024-11-30 07:37:05.445084,152,Separate packaging,N/A
+455,Completed,250.44,2024-11-16 07:37:05.445090,152,"No onions, please",N/A
+456,Pending,260.32,2024-11-23 06:37:05.445095,152,No special instructions,N/A
+457,Completed,278.4,2024-12-07 23:37:05.445101,153,Separate packaging,N/A
+458,Cancelled,240.98,2024-11-04 15:37:05.445107,153,"No onions, please",Restaurant issue
+459,Completed,321.53,2024-12-03 22:37:05.445113,153,No special instructions,N/A
+460,Pending,242.88,2024-11-28 19:37:05.445118,154,Separate packaging,Restaurant issue
+461,Cancelled,230.4,2024-12-09 15:37:05.445124,154,No special instructions,Restaurant issue
+462,Cancelled,319.48,2024-12-30 16:37:05.445130,154,Separate packaging,N/A
+463,Cancelled,459.33,2024-11-08 15:37:05.445135,155,"No onions, please",Restaurant issue
+464,Completed,127.57,2024-11-12 12:37:05.445141,155,Separate packaging,Restaurant issue
+465,Completed,170.93,2024-11-27 13:37:05.445148,155,Separate packaging,Restaurant issue
+466,Pending,474.53,2024-12-21 15:37:05.445164,156,No special instructions,N/A
+467,Pending,446.35,2024-11-11 19:37:05.445170,156,Separate packaging,N/A
+468,Pending,126.05,2024-12-16 10:37:05.445175,156,Separate packaging,Restaurant issue
+469,Cancelled,378.78,2024-11-13 12:37:05.445181,157,No special instructions,N/A
+470,Completed,454.31,2024-11-20 10:37:05.445187,157,No special instructions,Restaurant issue
+471,Cancelled,359.0,2024-12-09 15:37:05.445193,157,Extra spicy,Restaurant issue
+472,Completed,485.69,2024-11-19 16:37:05.445199,158,No special instructions,Customer request
+473,Cancelled,140.53,2024-12-21 19:37:05.445205,158,Extra spicy,Restaurant issue
+474,Cancelled,492.62,2024-11-14 11:37:05.445211,158,Separate packaging,Restaurant issue
+475,Completed,225.67,2024-12-15 04:37:05.445217,159,Separate packaging,Restaurant issue
+476,Cancelled,295.16,2024-11-30 00:37:05.445223,159,Extra spicy,Customer request
+477,Cancelled,414.79,2024-12-16 11:37:05.445229,159,No special instructions,N/A
+478,Cancelled,163.16,2024-12-19 06:37:05.445235,160,Separate packaging,Customer request
+479,Cancelled,424.82,2024-11-04 17:37:05.445241,160,Separate packaging,Restaurant issue
+480,Cancelled,111.38,2024-12-04 02:37:05.445247,160,Separate packaging,N/A
+481,Pending,139.44,2024-11-29 23:37:05.445257,161,No special instructions,Customer request
+482,Pending,387.27,2024-11-24 20:37:05.445268,161,Extra spicy,Customer request
+483,Completed,386.54,2024-11-15 15:37:05.445279,161,No special instructions,Customer request
+484,Completed,433.3,2024-11-06 02:37:05.445285,162,"No onions, please",Customer request
+485,Pending,369.27,2024-11-28 12:37:05.445293,162,Extra spicy,N/A
+486,Cancelled,147.87,2024-11-11 03:37:05.445298,162,Extra spicy,Restaurant issue
+487,Cancelled,205.32,2024-11-14 06:37:05.445305,163,No special instructions,Restaurant issue
+488,Cancelled,348.56,2024-11-28 13:37:05.445311,163,Separate packaging,Customer request
+489,Completed,260.72,2024-11-03 20:37:05.445316,163,No special instructions,Restaurant issue
+490,Cancelled,237.79,2024-12-01 11:37:05.445322,164,Separate packaging,Customer request
+491,Cancelled,172.48,2024-11-26 14:37:05.445328,164,No special instructions,Restaurant issue
+492,Cancelled,471.59,2024-12-20 17:37:05.445334,164,Extra spicy,Restaurant issue
+493,Pending,293.49,2024-12-24 14:37:05.445340,165,Extra spicy,N/A
+494,Completed,120.76,2024-12-05 14:37:05.445347,165,No special instructions,Restaurant issue
+495,Cancelled,150.62,2024-11-11 16:37:05.445353,165,No special instructions,Restaurant issue
+496,Pending,132.33,2024-11-23 17:37:05.445358,166,Extra spicy,N/A
+497,Cancelled,349.52,2024-11-08 11:37:05.445364,166,No special instructions,Restaurant issue
+498,Pending,368.58,2024-12-20 13:37:05.445370,166,Extra spicy,Customer request
+499,Completed,279.07,2024-11-21 14:37:05.445376,167,Extra spicy,N/A
+500,Completed,284.68,2024-12-05 13:37:05.445381,167,"No onions, please",N/A
+501,Cancelled,436.6,2024-12-07 20:37:05.445386,167,Separate packaging,N/A
+502,Cancelled,139.48,2024-11-24 18:37:05.445392,168,No special instructions,N/A
+503,Cancelled,340.72,2024-11-11 17:37:05.445397,168,Separate packaging,Restaurant issue
+504,Cancelled,384.36,2024-12-02 18:37:05.445404,168,Extra spicy,Restaurant issue
+505,Completed,261.44,2025-01-01 12:37:05.445409,169,Extra spicy,N/A
+506,Completed,206.12,2024-12-07 02:37:05.445415,169,No special instructions,Restaurant issue
+507,Cancelled,215.36,2024-11-02 18:37:05.445421,169,Separate packaging,Customer request
+508,Cancelled,179.45,2024-11-28 09:37:05.445427,170,Extra spicy,N/A
+509,Cancelled,476.31,2024-12-28 06:37:05.445432,170,Separate packaging,N/A
+510,Cancelled,100.95,2024-12-23 00:37:05.445438,170,Extra spicy,Restaurant issue
+511,Completed,470.04,2024-11-18 01:37:05.445444,171,"No onions, please",Restaurant issue
+512,Cancelled,229.07,2024-12-13 09:37:05.445452,171,Separate packaging,N/A
+513,Completed,383.66,2024-11-07 21:37:05.445462,171,No special instructions,Restaurant issue
+514,Cancelled,101.84,2024-11-10 21:37:05.445472,172,"No onions, please",N/A
+515,Cancelled,103.76,2024-12-07 15:37:05.445482,172,Separate packaging,N/A
+516,Completed,298.86,2024-12-31 13:37:05.445488,172,Extra spicy,N/A
+517,Cancelled,378.11,2024-11-09 04:37:05.445494,173,Extra spicy,Customer request
+518,Pending,379.11,2024-12-17 01:37:05.445500,173,"No onions, please",N/A
+519,Cancelled,191.56,2024-12-25 05:37:05.445505,173,"No onions, please",Customer request
+520,Cancelled,385.5,2024-12-07 15:37:05.445511,174,Separate packaging,N/A
+521,Pending,213.94,2024-11-09 08:37:05.445516,174,No special instructions,N/A
+522,Pending,458.61,2024-11-21 09:37:05.445522,174,"No onions, please",Customer request
+523,Cancelled,136.5,2024-11-26 04:37:05.445529,175,Separate packaging,N/A
+524,Cancelled,370.69,2024-11-09 19:37:05.445534,175,"No onions, please",Restaurant issue
+525,Completed,272.13,2024-11-05 09:37:05.445544,175,Separate packaging,Customer request
+526,Pending,479.95,2024-11-27 10:37:05.445573,176,Separate packaging,N/A
+527,Completed,477.16,2024-11-13 13:37:05.445583,176,Separate packaging,Restaurant issue
+528,Completed,252.83,2024-12-11 03:37:05.445592,176,"No onions, please",Customer request
+529,Cancelled,177.21,2024-11-30 18:37:05.445603,177,Extra spicy,N/A
+530,Pending,470.17,2024-12-16 04:37:05.445613,177,Separate packaging,Restaurant issue
+531,Completed,457.73,2024-11-21 19:37:05.445622,177,"No onions, please",N/A
+532,Completed,124.37,2024-12-13 14:37:05.445632,178,"No onions, please",Restaurant issue
+533,Pending,261.04,2024-11-20 16:37:05.445641,178,No special instructions,Customer request
+534,Cancelled,403.12,2024-12-07 15:37:05.445652,178,"No onions, please",N/A
+535,Pending,359.7,2024-12-21 10:37:05.445658,179,No special instructions,Customer request
+536,Pending,434.74,2024-12-07 10:37:05.445665,179,Extra spicy,N/A
+537,Pending,275.88,2024-11-03 19:37:05.445670,179,"No onions, please",N/A
+538,Cancelled,430.58,2024-11-14 12:37:05.445676,180,Extra spicy,Restaurant issue
+539,Pending,305.31,2024-11-27 18:37:05.445682,180,No special instructions,N/A
+540,Pending,274.87,2024-12-09 05:37:05.445688,180,Extra spicy,N/A
+541,Cancelled,270.17,2024-12-23 17:37:05.445694,181,"No onions, please",N/A
+542,Cancelled,318.72,2024-12-23 19:37:05.445699,181,No special instructions,Customer request
+543,Pending,169.3,2024-12-24 03:37:05.445705,181,Extra spicy,N/A
+544,Cancelled,135.58,2024-12-18 21:37:05.445712,182,Extra spicy,Restaurant issue
+545,Cancelled,246.46,2024-12-19 16:37:05.445717,182,Extra spicy,Customer request
+546,Cancelled,424.75,2024-12-19 12:37:05.445723,182,Separate packaging,N/A
+547,Pending,421.32,2024-12-01 02:37:05.445729,183,Separate packaging,Restaurant issue
+548,Cancelled,310.28,2024-12-10 06:37:05.445736,183,Extra spicy,N/A
+549,Cancelled,396.31,2024-12-16 14:37:05.445741,183,"No onions, please",Restaurant issue
+550,Pending,303.71,2024-12-13 20:37:05.445747,184,"No onions, please",Customer request
+551,Pending,353.13,2024-11-30 16:37:05.445753,184,Extra spicy,Restaurant issue
+552,Pending,405.02,2024-12-20 05:37:05.445759,184,Extra spicy,N/A
+553,Pending,381.23,2024-12-05 04:37:05.445765,185,"No onions, please",N/A
+554,Pending,189.2,2024-11-15 04:37:05.445772,185,No special instructions,N/A
+555,Pending,425.68,2024-11-17 07:37:05.445777,185,Extra spicy,N/A
+556,Pending,249.81,2024-11-26 14:37:05.445782,186,No special instructions,N/A
+557,Pending,341.86,2024-11-14 16:37:05.445788,186,Extra spicy,N/A
+558,Cancelled,473.12,2024-12-16 12:37:05.445793,186,No special instructions,N/A
+559,Cancelled,395.57,2024-11-04 14:37:05.445798,187,Separate packaging,N/A
+560,Pending,215.46,2024-12-08 13:37:05.445803,187,Separate packaging,Restaurant issue
+561,Pending,316.49,2024-12-14 14:37:05.445809,187,Separate packaging,N/A
+562,Pending,181.69,2024-11-21 10:37:05.445815,188,Separate packaging,N/A
+563,Pending,468.81,2024-11-12 00:37:05.445820,188,"No onions, please",N/A
+564,Cancelled,339.83,2024-12-23 21:37:05.445825,188,No special instructions,N/A
+565,Pending,254.46,2024-11-24 09:37:05.445831,189,Separate packaging,N/A
+566,Completed,180.47,2024-11-26 20:37:05.445836,189,"No onions, please",Customer request
+567,Completed,224.8,2024-11-10 04:37:05.445843,189,Extra spicy,N/A
+568,Cancelled,493.36,2024-11-14 02:37:05.445848,190,Separate packaging,N/A
+569,Completed,121.69,2024-12-29 23:37:05.445853,190,Extra spicy,Customer request
+570,Pending,143.77,2024-12-29 22:37:05.445859,190,Separate packaging,Restaurant issue
+571,Pending,177.37,2024-11-28 08:37:05.445865,191,"No onions, please",Customer request
+572,Cancelled,160.87,2024-12-15 20:37:05.445872,191,No special instructions,Customer request
+573,Completed,371.1,2024-11-22 11:37:05.445877,191,"No onions, please",Restaurant issue
+574,Cancelled,240.56,2024-12-04 01:37:05.445883,192,Separate packaging,N/A
+575,Pending,295.19,2024-12-02 18:37:05.445889,192,"No onions, please",N/A
+576,Cancelled,105.21,2024-12-20 07:37:05.445895,192,Extra spicy,N/A
+577,Completed,218.09,2024-11-24 13:37:05.445901,193,"No onions, please",Customer request
+578,Cancelled,484.54,2024-11-30 11:37:05.445907,193,"No onions, please",N/A
+579,Pending,396.97,2024-11-03 10:37:05.445913,193,No special instructions,N/A
+580,Cancelled,467.52,2024-12-01 07:37:05.445919,194,Separate packaging,Restaurant issue
+581,Pending,330.05,2024-12-10 04:37:05.445924,194,Separate packaging,Customer request
+582,Cancelled,158.92,2024-12-30 15:37:05.445930,194,No special instructions,Restaurant issue
+583,Completed,169.85,2024-11-10 13:37:05.445936,195,"No onions, please",N/A
+584,Pending,148.92,2024-11-06 20:37:05.445941,195,Separate packaging,N/A
+585,Pending,161.21,2024-12-24 05:37:05.445947,195,Separate packaging,Restaurant issue
+586,Pending,430.34,2024-12-13 03:37:05.445954,196,Separate packaging,N/A
+587,Completed,342.54,2024-12-15 07:37:05.445963,196,No special instructions,N/A
+588,Pending,294.89,2024-11-02 03:37:05.445973,196,"No onions, please",N/A
+589,Cancelled,134.22,2024-12-26 13:37:05.445979,197,No special instructions,Restaurant issue
+590,Completed,112.92,2024-12-22 19:37:05.445985,197,Separate packaging,Customer request
+591,Completed,224.02,2024-11-30 10:37:05.445991,197,Separate packaging,Customer request
+592,Cancelled,114.68,2024-11-11 13:37:05.445999,198,No special instructions,Restaurant issue
+593,Cancelled,264.8,2024-11-10 12:37:05.446009,198,"No onions, please",Restaurant issue
+594,Pending,283.68,2024-12-01 19:37:05.446018,198,"No onions, please",Restaurant issue
+595,Cancelled,364.28,2024-11-12 03:37:05.446024,199,"No onions, please",Customer request
+596,Cancelled,267.85,2024-12-05 03:37:05.446030,199,No special instructions,Restaurant issue
+597,Pending,176.72,2024-11-29 06:37:05.446036,199,"No onions, please",N/A
+598,Cancelled,108.52,2024-12-09 09:37:05.446041,200,Separate packaging,Restaurant issue
+599,Pending,232.18,2024-11-01 23:37:05.446048,200,No special instructions,Restaurant issue
+600,Pending,184.82,2024-12-19 19:37:05.446053,200,No special instructions,N/A
+601,Completed,414.94,2024-12-17 20:37:05.446059,201,No special instructions,N/A
+602,Completed,405.57,2024-12-19 12:37:05.446064,201,Extra spicy,Restaurant issue
+603,Cancelled,437.38,2024-11-06 23:37:05.446070,201,"No onions, please",N/A
+604,Completed,255.0,2024-12-01 17:37:05.446075,202,No special instructions,Restaurant issue
+605,Completed,162.55,2024-12-29 23:37:05.446081,202,No special instructions,Restaurant issue
+606,Cancelled,330.83,2024-12-21 15:37:05.446086,202,Separate packaging,N/A
+607,Cancelled,402.88,2024-12-01 10:37:05.446092,203,Separate packaging,Restaurant issue
+608,Cancelled,461.85,2024-11-09 23:37:05.446099,203,Extra spicy,Restaurant issue
+609,Completed,114.04,2024-11-17 01:37:05.446104,203,No special instructions,Customer request
+610,Cancelled,153.85,2024-12-26 06:37:05.446110,204,Separate packaging,N/A
+611,Pending,204.77,2024-11-09 17:37:05.446116,204,Separate packaging,N/A
+612,Cancelled,301.56,2024-12-12 13:37:05.446121,204,Extra spicy,Restaurant issue
+613,Pending,285.44,2024-12-29 08:37:05.446128,205,Extra spicy,Customer request
+614,Cancelled,434.68,2024-11-12 09:37:05.446135,205,Separate packaging,N/A
+615,Pending,336.93,2024-12-27 23:37:05.446141,205,Separate packaging,Restaurant issue
+616,Pending,199.06,2024-12-31 08:37:05.446147,206,"No onions, please",Customer request
+617,Cancelled,440.29,2024-11-29 05:37:05.446152,206,Separate packaging,N/A
+618,Pending,224.58,2024-12-23 21:37:05.446158,206,Separate packaging,N/A
+619,Cancelled,290.86,2024-11-10 14:37:05.446163,207,Separate packaging,N/A
+620,Cancelled,210.39,2024-11-17 22:37:05.446169,207,Separate packaging,Restaurant issue
+621,Completed,348.99,2024-12-05 08:37:05.446175,207,No special instructions,N/A
+622,Cancelled,278.12,2024-12-23 17:37:05.446180,208,No special instructions,Customer request
+623,Pending,182.21,2024-12-30 07:37:05.446186,208,Separate packaging,N/A
+624,Completed,363.99,2024-11-24 10:37:05.446192,208,Extra spicy,Customer request
+625,Cancelled,412.73,2024-11-29 02:37:05.446198,209,"No onions, please",Restaurant issue
+626,Completed,490.96,2024-12-22 12:37:05.446204,209,Separate packaging,N/A
+627,Cancelled,499.46,2024-12-10 19:37:05.446209,209,Separate packaging,N/A
+628,Cancelled,201.2,2024-12-29 20:37:05.446214,210,"No onions, please",N/A
+629,Pending,264.74,2024-11-26 23:37:05.446220,210,Separate packaging,N/A
+630,Completed,243.48,2024-11-27 02:37:05.446225,210,Separate packaging,Customer request
+631,Completed,278.74,2024-12-24 07:37:05.446231,211,Extra spicy,Customer request
+632,Completed,118.26,2024-12-19 02:37:05.446237,211,Separate packaging,Restaurant issue
+633,Cancelled,250.33,2024-12-21 23:37:05.446242,211,"No onions, please",N/A
+634,Cancelled,241.47,2024-12-06 21:37:05.446248,212,No special instructions,Restaurant issue
+635,Completed,389.07,2024-11-14 18:37:05.446254,212,Extra spicy,N/A
+636,Pending,410.7,2024-11-03 21:37:05.446259,212,"No onions, please",Restaurant issue
+637,Pending,172.24,2024-12-18 14:37:05.446265,213,Separate packaging,Restaurant issue
+638,Completed,498.16,2024-12-25 22:37:05.446271,213,No special instructions,N/A
+639,Completed,404.11,2024-12-09 10:37:05.446277,213,"No onions, please",N/A
+640,Cancelled,231.83,2024-12-17 08:37:05.446283,214,No special instructions,N/A
+641,Pending,361.63,2024-11-18 20:37:05.446288,214,"No onions, please",Customer request
+642,Completed,466.91,2024-12-22 22:37:05.446294,214,Separate packaging,Customer request
+643,Pending,400.81,2024-11-18 17:37:05.446300,215,"No onions, please",N/A
+644,Cancelled,138.7,2024-12-07 20:37:05.446306,215,Extra spicy,N/A
+645,Pending,431.14,2024-11-08 00:37:05.446311,215,"No onions, please",N/A
+646,Completed,469.11,2024-11-03 19:37:05.446316,216,"No onions, please",Restaurant issue
+647,Completed,435.83,2024-12-23 15:37:05.446324,216,Separate packaging,N/A
+648,Pending,263.14,2024-12-14 22:37:05.446333,216,No special instructions,N/A
+649,Pending,376.57,2024-12-13 11:37:05.446342,217,"No onions, please",N/A
+650,Cancelled,421.9,2024-11-27 19:37:05.446352,217,Extra spicy,N/A
+651,Pending,303.24,2024-12-08 13:37:05.446359,217,"No onions, please",N/A
+652,Cancelled,365.31,2024-11-13 05:37:05.446364,218,No special instructions,Customer request
+653,Completed,372.16,2024-11-22 16:37:05.446370,218,Extra spicy,N/A
+654,Completed,355.18,2024-12-31 10:37:05.446376,218,"No onions, please",N/A
+655,Pending,497.4,2024-12-01 19:37:05.446381,219,Separate packaging,N/A
+656,Pending,497.51,2024-12-31 02:37:05.446387,219,Separate packaging,Customer request
+657,Pending,198.66,2024-12-11 03:37:05.446392,219,Separate packaging,Restaurant issue
+658,Cancelled,146.59,2024-11-09 13:37:05.446398,220,No special instructions,N/A
+659,Completed,468.06,2024-11-05 17:37:05.446404,220,"No onions, please",N/A
+660,Pending,132.26,2024-11-30 02:37:05.446409,220,Separate packaging,N/A
+661,Cancelled,356.66,2024-12-07 13:37:05.446415,221,No special instructions,Restaurant issue
+662,Completed,232.82,2024-12-25 20:37:05.446421,221,"No onions, please",Restaurant issue
+663,Completed,236.16,2024-12-12 19:37:05.446426,221,No special instructions,N/A
+664,Cancelled,245.62,2024-11-30 07:37:05.446432,222,"No onions, please",N/A
+665,Cancelled,131.44,2024-12-23 00:37:05.446438,222,Extra spicy,Customer request
+666,Completed,430.13,2024-12-04 15:37:05.446443,222,Extra spicy,Restaurant issue
+667,Pending,470.45,2024-11-06 14:37:05.446449,223,"No onions, please",Customer request
+668,Cancelled,180.54,2024-12-26 12:37:05.446455,223,Extra spicy,Restaurant issue
+669,Completed,168.86,2024-11-10 22:37:05.446461,223,Separate packaging,N/A
+670,Cancelled,222.11,2024-12-27 10:37:05.446466,224,No special instructions,N/A
+671,Cancelled,456.02,2024-12-09 22:37:05.446472,224,Extra spicy,Customer request
+672,Completed,293.97,2024-11-06 15:37:05.446479,224,Extra spicy,Restaurant issue
+673,Pending,329.99,2024-12-05 02:37:05.446485,225,Extra spicy,N/A
+674,Completed,326.02,2024-12-11 05:37:05.446491,225,Separate packaging,Customer request
+675,Completed,405.94,2024-11-17 17:37:05.446497,225,Extra spicy,Restaurant issue
+676,Completed,163.0,2024-11-26 21:37:05.446503,226,Extra spicy,N/A
+677,Completed,321.44,2024-11-07 19:37:05.446510,226,No special instructions,N/A
+678,Pending,356.38,2024-12-24 10:37:05.446515,226,No special instructions,N/A
+679,Completed,367.54,2024-11-17 03:37:05.446520,227,Separate packaging,N/A
+680,Pending,367.91,2024-12-27 08:37:05.446526,227,Extra spicy,Restaurant issue
+681,Pending,247.69,2024-11-30 15:37:05.446536,227,No special instructions,N/A
+682,Pending,177.41,2024-12-18 15:37:05.446545,228,Extra spicy,Restaurant issue
+683,Pending,292.61,2024-11-30 08:37:05.446556,228,"No onions, please",Customer request
+684,Completed,219.29,2024-11-03 05:37:05.446563,228,"No onions, please",N/A
+685,Pending,302.82,2024-12-04 20:37:05.446569,229,Separate packaging,N/A
+686,Completed,272.89,2024-11-10 08:37:05.446574,229,Extra spicy,Customer request
+687,Cancelled,294.0,2024-12-23 17:37:05.446580,229,Extra spicy,Customer request
+688,Cancelled,411.71,2024-12-03 13:37:05.446587,230,Separate packaging,N/A
+689,Cancelled,154.45,2024-12-23 12:37:05.446592,230,Separate packaging,Restaurant issue
+690,Pending,346.61,2024-12-06 08:37:05.446598,230,"No onions, please",N/A
+691,Completed,228.91,2024-12-26 21:37:05.446603,231,No special instructions,N/A
+692,Completed,322.25,2024-11-18 13:37:05.446608,231,Extra spicy,Restaurant issue
+693,Completed,301.97,2024-11-05 18:37:05.446614,231,Extra spicy,Restaurant issue
+694,Cancelled,303.78,2024-11-12 04:37:05.446623,232,No special instructions,N/A
+695,Pending,362.61,2024-11-28 00:37:05.446633,232,"No onions, please",N/A
+696,Cancelled,375.4,2024-12-04 18:37:05.446641,232,No special instructions,N/A
+697,Completed,227.62,2024-12-30 11:37:05.446647,233,Extra spicy,Restaurant issue
+698,Pending,442.99,2024-12-13 06:37:05.446653,233,Separate packaging,Customer request
+699,Cancelled,383.56,2024-11-18 19:37:05.446659,233,Extra spicy,N/A
+700,Pending,430.99,2024-12-23 12:37:05.446665,234,Extra spicy,N/A
+701,Cancelled,107.98,2024-11-05 22:37:05.446670,234,Extra spicy,N/A
+702,Cancelled,179.72,2024-12-09 03:37:05.446676,234,"No onions, please",N/A
+703,Pending,183.25,2024-12-14 05:37:05.446681,235,Extra spicy,N/A
+704,Cancelled,195.51,2024-11-12 15:37:05.446688,235,Extra spicy,Customer request
+705,Pending,264.35,2024-11-24 07:37:05.446696,235,"No onions, please",N/A
+706,Cancelled,407.68,2024-12-14 21:37:05.446706,236,"No onions, please",N/A
+707,Cancelled,139.77,2024-11-05 22:37:05.446715,236,"No onions, please",N/A
+708,Pending,466.79,2025-01-01 00:37:05.446720,236,"No onions, please",Restaurant issue
+709,Cancelled,289.43,2024-11-07 00:37:05.446726,237,Separate packaging,Restaurant issue
+710,Completed,200.91,2024-11-23 13:37:05.446732,237,No special instructions,Restaurant issue
+711,Cancelled,199.84,2024-12-22 03:37:05.446738,237,No special instructions,N/A
+712,Cancelled,447.37,2024-11-02 13:37:05.446743,238,No special instructions,N/A
+713,Pending,469.66,2024-11-20 05:37:05.446748,238,Extra spicy,N/A
+714,Completed,101.47,2024-11-17 17:37:05.446753,238,"No onions, please",N/A
+715,Cancelled,124.03,2024-12-19 01:37:05.446759,239,Extra spicy,Restaurant issue
+716,Pending,126.74,2024-12-21 02:37:05.446765,239,No special instructions,N/A
+717,Pending,334.49,2024-12-28 06:37:05.446770,239,"No onions, please",Customer request
+718,Pending,495.69,2024-12-15 09:37:05.446776,240,Extra spicy,N/A
+719,Completed,371.19,2024-11-20 13:37:05.446782,240,Extra spicy,N/A
+720,Pending,376.12,2024-11-07 17:37:05.446787,240,No special instructions,N/A
+721,Completed,401.22,2024-11-29 12:37:05.446792,241,Separate packaging,N/A
+722,Cancelled,162.2,2024-12-12 09:37:05.446798,241,Separate packaging,Customer request
+723,Completed,433.18,2024-11-17 07:37:05.446803,241,Extra spicy,N/A
+724,Pending,137.99,2024-11-01 14:37:05.446809,242,Separate packaging,Customer request
+725,Pending,136.15,2024-11-30 10:37:05.446814,242,Separate packaging,Customer request
+726,Completed,269.8,2024-12-04 21:37:05.446820,242,No special instructions,N/A
+727,Completed,244.15,2024-11-27 14:37:05.446826,243,No special instructions,Customer request
+728,Cancelled,130.67,2024-12-07 19:37:05.446832,243,Extra spicy,Restaurant issue
+729,Cancelled,100.82,2024-12-26 11:37:05.446838,243,Separate packaging,Restaurant issue
+730,Cancelled,468.96,2024-11-15 22:37:05.446844,244,No special instructions,Restaurant issue
+731,Pending,376.56,2024-11-09 07:37:05.446850,244,Separate packaging,Restaurant issue
+732,Pending,335.93,2024-11-29 05:37:05.446855,244,Extra spicy,Customer request
+733,Completed,379.12,2024-12-21 00:37:05.446861,245,Separate packaging,N/A
+734,Cancelled,434.77,2024-11-29 21:37:05.446867,245,Extra spicy,Customer request
+735,Completed,485.44,2024-11-17 20:37:05.446873,245,Extra spicy,Customer request
+736,Cancelled,120.66,2024-11-09 13:37:05.446881,246,"No onions, please",Restaurant issue
+737,Cancelled,261.23,2024-12-30 04:37:05.446887,246,Extra spicy,N/A
+738,Pending,114.18,2024-12-01 13:37:05.446892,246,"No onions, please",N/A
+739,Cancelled,417.01,2024-12-27 12:37:05.446898,247,Extra spicy,N/A
+740,Cancelled,469.98,2024-11-08 00:37:05.446904,247,Separate packaging,N/A
+741,Cancelled,316.8,2024-12-24 05:37:05.446910,247,Extra spicy,Customer request
+742,Cancelled,405.55,2024-12-10 13:37:05.446916,248,"No onions, please",Customer request
+743,Completed,156.65,2024-11-19 20:37:05.446921,248,Extra spicy,N/A
+744,Cancelled,207.05,2024-12-05 14:37:05.446927,248,No special instructions,N/A
+745,Pending,420.87,2024-11-14 11:37:05.446932,249,Separate packaging,Restaurant issue
+746,Pending,311.75,2024-11-06 18:37:05.446938,249,"No onions, please",Customer request
+747,Pending,436.86,2024-11-08 03:37:05.446944,249,Separate packaging,N/A
+748,Completed,370.79,2024-11-21 12:37:05.446950,250,No special instructions,Restaurant issue
+749,Cancelled,287.71,2024-11-27 19:37:05.446956,250,Separate packaging,N/A
+750,Pending,349.05,2024-12-09 03:37:05.446961,250,"No onions, please",N/A
+751,Completed,399.89,2024-12-26 07:37:05.446967,251,Extra spicy,Customer request
+752,Cancelled,257.86,2024-11-09 03:37:05.446973,251,"No onions, please",N/A
+753,Pending,259.59,2024-12-27 12:37:05.446978,251,No special instructions,Customer request
+754,Completed,403.75,2024-12-12 22:37:05.446984,252,Separate packaging,N/A
+755,Pending,268.53,2024-12-25 13:37:05.446989,252,Separate packaging,N/A
+756,Completed,269.87,2024-12-16 23:37:05.446994,252,No special instructions,N/A
+757,Pending,385.92,2024-12-30 15:37:05.447002,253,No special instructions,Customer request
+758,Pending,344.96,2024-11-16 22:37:05.447012,253,Separate packaging,N/A
+759,Pending,316.82,2024-12-12 16:37:05.447022,253,No special instructions,Customer request
+760,Cancelled,442.47,2024-12-17 08:37:05.447028,254,Separate packaging,N/A
+761,Completed,335.39,2024-12-11 07:37:05.447034,254,No special instructions,Restaurant issue
+762,Completed,478.46,2024-12-15 13:37:05.447046,254,No special instructions,N/A
+763,Pending,170.89,2024-11-06 13:37:05.447055,255,"No onions, please",N/A
+764,Completed,280.91,2024-12-02 07:37:05.447061,255,No special instructions,N/A
+765,Cancelled,265.21,2024-12-12 08:37:05.447067,255,Extra spicy,N/A
+766,Pending,109.5,2024-12-18 21:37:05.447074,256,Separate packaging,N/A
+767,Pending,458.73,2024-12-28 09:37:05.447083,256,Separate packaging,N/A
+768,Completed,394.46,2024-11-26 11:37:05.447093,256,Separate packaging,N/A
+769,Pending,287.18,2024-12-06 07:37:05.447099,257,Extra spicy,N/A
+770,Cancelled,185.49,2024-12-10 23:37:05.447105,257,"No onions, please",N/A
+771,Pending,176.16,2024-11-24 13:37:05.447110,257,Separate packaging,Restaurant issue
+772,Completed,186.94,2024-11-09 07:37:05.447116,258,Extra spicy,N/A
+773,Pending,221.65,2024-11-13 10:37:05.447122,258,Separate packaging,Customer request
+774,Completed,266.36,2024-12-22 10:37:05.447127,258,No special instructions,N/A
+775,Completed,362.74,2024-12-18 11:37:05.447133,259,No special instructions,N/A
+776,Completed,499.72,2024-12-13 22:37:05.447138,259,Separate packaging,N/A
+777,Cancelled,194.08,2024-12-13 20:37:05.447218,259,"No onions, please",N/A
+778,Cancelled,351.21,2024-12-16 14:37:05.447225,260,No special instructions,Restaurant issue
+779,Cancelled,350.7,2024-11-13 03:37:05.447230,260,"No onions, please",Customer request
+780,Pending,292.77,2024-12-06 15:37:05.447236,260,"No onions, please",Restaurant issue
+781,Cancelled,315.81,2024-12-28 02:37:05.447242,261,Extra spicy,Customer request
+782,Cancelled,233.49,2024-12-21 15:37:05.447248,261,Separate packaging,Restaurant issue
+783,Pending,467.95,2024-12-17 13:37:05.447254,261,"No onions, please",N/A
+784,Completed,458.62,2024-12-23 00:37:05.447259,262,No special instructions,N/A
+785,Completed,183.46,2024-11-22 23:37:05.447265,262,Extra spicy,Restaurant issue
+786,Completed,147.17,2024-11-03 11:37:05.447271,262,Separate packaging,N/A
+787,Cancelled,288.15,2024-12-07 05:37:05.447276,263,"No onions, please",Restaurant issue
+788,Completed,227.4,2024-11-23 21:37:05.447282,263,"No onions, please",N/A
+789,Cancelled,299.64,2024-12-08 00:37:05.447287,263,Separate packaging,Restaurant issue
+790,Pending,378.44,2024-12-31 05:37:05.447293,264,Separate packaging,N/A
+791,Completed,360.44,2024-12-16 12:37:05.447299,264,"No onions, please",Restaurant issue
+792,Pending,483.73,2024-11-29 19:37:05.447305,264,Separate packaging,Restaurant issue
+793,Cancelled,452.44,2024-12-16 14:37:05.447311,265,"No onions, please",N/A
+794,Completed,308.07,2024-12-27 13:37:05.447316,265,No special instructions,Customer request
+795,Completed,140.53,2024-11-08 13:37:05.447322,265,No special instructions,Restaurant issue
+796,Cancelled,175.1,2024-11-20 17:37:05.447329,266,"No onions, please",N/A
+797,Completed,466.14,2024-12-16 09:37:05.447334,266,No special instructions,Restaurant issue
+798,Cancelled,369.22,2024-12-19 15:37:05.447340,266,Separate packaging,Restaurant issue
+799,Cancelled,395.62,2024-11-10 21:37:05.447346,267,No special instructions,N/A
+800,Pending,387.97,2024-11-27 01:37:05.447353,267,Extra spicy,N/A
+801,Pending,125.33,2024-11-19 10:37:05.447359,267,"No onions, please",Customer request
+802,Pending,307.99,2024-12-08 08:37:05.447365,268,Extra spicy,Customer request
+803,Cancelled,470.71,2024-11-08 11:37:05.447371,268,Separate packaging,Customer request
+804,Cancelled,111.65,2024-11-14 10:37:05.447377,268,Extra spicy,Customer request
+805,Completed,418.23,2024-11-19 21:37:05.447383,269,Extra spicy,N/A
+806,Pending,200.87,2024-12-12 14:37:05.447389,269,No special instructions,N/A
+807,Cancelled,167.06,2024-12-15 05:37:05.447394,269,No special instructions,Restaurant issue
+808,Cancelled,155.41,2024-12-27 13:37:05.447403,270,Extra spicy,Customer request
+809,Cancelled,292.72,2024-12-10 09:37:05.447413,270,Separate packaging,Restaurant issue
+810,Cancelled,443.85,2024-12-27 07:37:05.447422,270,Extra spicy,Restaurant issue
+811,Pending,258.96,2024-11-19 04:37:05.447434,271,"No onions, please",Restaurant issue
+812,Cancelled,373.97,2024-12-12 11:37:05.447440,271,Extra spicy,N/A
+813,Completed,107.55,2024-11-09 06:37:05.447446,271,"No onions, please",N/A
+814,Completed,183.5,2024-11-07 17:37:05.447451,272,Separate packaging,N/A
+815,Completed,122.39,2024-11-24 04:37:05.447457,272,Extra spicy,N/A
+816,Pending,424.81,2024-11-06 08:37:05.447462,272,Separate packaging,N/A
+817,Cancelled,252.97,2024-11-14 10:37:05.447468,273,"No onions, please",N/A
+818,Cancelled,292.52,2024-12-08 07:37:05.447473,273,No special instructions,Restaurant issue
+819,Completed,229.62,2024-11-30 05:37:05.447479,273,Separate packaging,N/A
+820,Cancelled,486.46,2024-12-15 17:37:05.447485,274,"No onions, please",Restaurant issue
+821,Pending,314.68,2024-11-15 09:37:05.447491,274,Extra spicy,N/A
+822,Completed,104.39,2024-11-11 07:37:05.447496,274,No special instructions,Restaurant issue
+823,Cancelled,209.78,2024-11-28 13:37:05.447502,275,No special instructions,Restaurant issue
+824,Cancelled,155.62,2024-12-18 02:37:05.447509,275,No special instructions,N/A
+825,Cancelled,265.68,2024-12-27 12:37:05.447514,275,No special instructions,Restaurant issue
+826,Cancelled,176.45,2024-12-08 23:37:05.447520,276,Extra spicy,Customer request
+827,Cancelled,345.82,2024-11-23 23:37:05.447526,276,No special instructions,Customer request
+828,Cancelled,385.95,2024-11-26 05:37:05.447532,276,Separate packaging,Restaurant issue
+829,Pending,188.43,2024-12-24 17:37:05.447538,277,No special instructions,Restaurant issue
+830,Completed,492.21,2024-12-21 13:37:05.447545,277,Extra spicy,Customer request
+831,Completed,178.88,2024-12-03 08:37:05.447551,277,Separate packaging,Customer request
+832,Pending,466.22,2024-12-11 00:37:05.447558,278,Extra spicy,Customer request
+833,Cancelled,332.96,2024-11-18 03:37:05.447564,278,"No onions, please",Customer request
+834,Pending,364.67,2024-12-23 18:37:05.447570,278,Separate packaging,N/A
+835,Cancelled,382.74,2024-11-16 06:37:05.447576,279,Extra spicy,N/A
+836,Pending,273.01,2024-12-09 17:37:05.447581,279,Separate packaging,Customer request
+837,Completed,398.56,2024-12-01 07:37:05.447587,279,Separate packaging,Restaurant issue
+838,Completed,185.87,2024-12-13 19:37:05.447594,280,Separate packaging,Restaurant issue
+839,Cancelled,232.65,2024-11-05 07:37:05.447600,280,No special instructions,N/A
+840,Pending,324.46,2024-12-29 08:37:05.447608,280,Separate packaging,N/A
+841,Completed,445.95,2024-12-23 13:37:05.447618,281,"No onions, please",N/A
+842,Completed,432.56,2024-12-23 18:37:05.447629,281,Separate packaging,N/A
+843,Completed,268.0,2024-12-03 14:37:05.447638,281,No special instructions,Restaurant issue
+844,Cancelled,166.51,2024-11-22 01:37:05.447644,282,Extra spicy,N/A
+845,Completed,250.71,2024-12-30 11:37:05.447649,282,"No onions, please",Customer request
+846,Pending,200.34,2024-12-31 02:37:05.447655,282,Extra spicy,N/A
+847,Cancelled,213.38,2024-12-28 23:37:05.447661,283,"No onions, please",Restaurant issue
+848,Cancelled,119.58,2024-12-03 13:37:05.447668,283,No special instructions,N/A
+849,Pending,344.56,2024-11-10 06:37:05.447673,283,Extra spicy,Customer request
+850,Cancelled,163.31,2024-11-20 04:37:05.447681,284,"No onions, please",Restaurant issue
+851,Cancelled,318.38,2024-12-24 14:37:05.447691,284,"No onions, please",Customer request
+852,Pending,235.47,2024-12-27 22:37:05.447702,284,"No onions, please",N/A
+853,Completed,161.53,2024-12-16 19:37:05.447712,285,Extra spicy,N/A
+854,Completed,480.86,2024-11-14 05:37:05.447719,285,Extra spicy,Customer request
+855,Pending,422.05,2024-11-28 18:37:05.447725,285,No special instructions,N/A
+856,Completed,281.94,2024-12-02 03:37:05.447730,286,"No onions, please",Customer request
+857,Cancelled,116.71,2024-11-05 01:37:05.447736,286,"No onions, please",N/A
+858,Cancelled,390.88,2024-12-08 12:37:05.447742,286,No special instructions,N/A
+859,Completed,363.13,2024-12-12 11:37:05.447747,287,Separate packaging,Restaurant issue
+860,Cancelled,473.68,2024-11-12 10:37:05.447753,287,Extra spicy,N/A
+861,Pending,330.9,2024-12-13 23:37:05.447759,287,No special instructions,Restaurant issue
+862,Cancelled,424.21,2024-12-29 16:37:05.447773,288,Separate packaging,N/A
+863,Completed,267.37,2024-12-29 05:37:05.447783,288,Separate packaging,Customer request
+864,Cancelled,418.51,2024-12-20 20:37:05.447794,288,No special instructions,N/A
+865,Cancelled,300.39,2024-12-31 01:37:05.447800,289,"No onions, please",Restaurant issue
+866,Cancelled,305.95,2024-11-07 16:37:05.447806,289,Separate packaging,N/A
+867,Pending,104.28,2024-11-20 05:37:05.447811,289,"No onions, please",N/A
+868,Cancelled,243.82,2024-12-01 10:37:05.447817,290,Separate packaging,N/A
+869,Cancelled,320.94,2024-11-23 06:37:05.447822,290,Extra spicy,N/A
+870,Pending,333.38,2024-11-26 18:37:05.447833,290,Extra spicy,N/A
+871,Cancelled,291.05,2024-12-02 23:37:05.447842,291,"No onions, please",Customer request
+872,Pending,390.59,2024-11-12 23:37:05.447850,291,Extra spicy,N/A
+873,Cancelled,110.41,2024-11-26 04:37:05.447856,291,No special instructions,N/A
+874,Completed,414.45,2024-12-31 17:37:05.447862,292,"No onions, please",Restaurant issue
+875,Completed,258.84,2024-11-27 14:37:05.447868,292,Separate packaging,Customer request
+876,Pending,314.19,2024-12-18 00:37:05.447874,292,No special instructions,N/A
+877,Cancelled,266.45,2024-12-25 09:37:05.447879,293,"No onions, please",Customer request
+878,Completed,113.51,2024-12-29 01:37:05.447885,293,Extra spicy,N/A
+879,Cancelled,375.21,2024-12-07 23:37:05.447891,293,Extra spicy,Customer request
+880,Completed,474.05,2024-12-09 20:37:05.447897,294,"No onions, please",N/A
+881,Pending,471.57,2024-12-02 19:37:05.447902,294,Separate packaging,Customer request
+882,Pending,215.68,2024-12-18 03:37:05.447908,294,Extra spicy,Customer request
+883,Completed,261.56,2024-11-15 15:37:05.447919,295,"No onions, please",Restaurant issue
+884,Cancelled,495.91,2024-11-05 06:37:05.447934,295,Extra spicy,N/A
+885,Completed,468.82,2024-12-14 16:37:05.447939,295,Separate packaging,Customer request
+886,Pending,175.16,2024-11-21 19:37:05.447945,296,Separate packaging,Restaurant issue
+887,Completed,282.75,2024-12-19 21:37:05.447951,296,"No onions, please",N/A
+888,Completed,254.83,2024-11-21 01:37:05.447957,296,Extra spicy,N/A
+889,Completed,183.82,2024-11-20 00:37:05.447963,297,"No onions, please",N/A
+890,Pending,272.12,2024-12-05 21:37:05.447968,297,No special instructions,Restaurant issue
+891,Cancelled,218.73,2024-11-07 07:37:05.447974,297,Extra spicy,N/A
+892,Cancelled,187.98,2024-12-10 10:37:05.447979,298,Extra spicy,N/A
+893,Cancelled,488.79,2024-12-15 11:37:05.447985,298,Separate packaging,Restaurant issue
+894,Cancelled,487.16,2024-12-30 11:37:05.447991,298,"No onions, please",N/A
+895,Completed,337.88,2024-11-13 21:37:05.448002,299,Separate packaging,N/A
+896,Cancelled,301.91,2024-12-15 14:37:05.448012,299,Separate packaging,N/A
+897,Completed,350.03,2024-12-20 21:37:05.448017,299,"No onions, please",Restaurant issue
+898,Pending,157.87,2024-12-04 07:37:05.448024,300,"No onions, please",N/A
+899,Completed,269.91,2024-12-06 14:37:05.448029,300,"No onions, please",N/A
+900,Completed,400.81,2024-12-29 06:37:05.448034,300,"No onions, please",N/A
+901,Completed,115.15,2024-12-15 01:37:05.448040,301,Extra spicy,N/A
+902,Cancelled,314.56,2024-11-13 18:37:05.448045,301,No special instructions,Restaurant issue
+903,Completed,114.21,2024-11-04 22:37:05.448051,301,Extra spicy,Customer request
+904,Cancelled,454.83,2024-11-17 13:37:05.448057,302,"No onions, please",N/A
+905,Pending,368.22,2024-11-30 08:37:05.448062,302,"No onions, please",Customer request
+906,Pending,404.58,2024-11-17 20:37:05.448069,302,Extra spicy,N/A
+907,Pending,466.76,2024-12-13 12:37:05.448081,303,No special instructions,N/A
+908,Completed,374.89,2024-12-18 09:37:05.448090,303,"No onions, please",N/A
+909,Cancelled,432.38,2024-12-07 02:37:05.448102,303,Separate packaging,N/A
+910,Completed,469.68,2024-12-19 12:37:05.448109,304,No special instructions,N/A
+911,Completed,461.75,2024-12-15 13:37:05.448119,304,No special instructions,Restaurant issue
+912,Cancelled,223.24,2024-11-03 13:37:05.448128,304,"No onions, please",N/A
+913,Cancelled,454.59,2024-11-16 12:37:05.448139,305,No special instructions,N/A
+914,Cancelled,269.76,2024-12-28 02:37:05.448145,305,Separate packaging,Restaurant issue
+915,Completed,322.8,2024-11-16 16:37:05.448155,305,No special instructions,Restaurant issue
+916,Pending,409.08,2024-12-19 01:37:05.448167,306,Extra spicy,Restaurant issue
+917,Cancelled,245.91,2024-11-26 19:37:05.448173,306,"No onions, please",N/A
+918,Cancelled,404.71,2024-11-15 11:37:05.448178,306,Extra spicy,Customer request
+919,Pending,116.91,2024-12-14 14:37:05.448185,307,No special instructions,N/A
+920,Completed,229.92,2024-12-09 13:37:05.448190,307,"No onions, please",N/A
+921,Cancelled,176.98,2024-12-30 03:37:05.448195,307,"No onions, please",N/A
+922,Pending,471.87,2024-12-31 00:37:05.448201,308,No special instructions,Restaurant issue
+923,Completed,122.74,2024-12-09 13:37:05.448206,308,No special instructions,N/A
+924,Pending,435.98,2024-11-12 01:37:05.448212,308,No special instructions,N/A
+925,Pending,104.49,2024-11-13 13:37:05.448217,309,No special instructions,Restaurant issue
+926,Cancelled,261.28,2024-12-09 01:37:05.448223,309,"No onions, please",Restaurant issue
+927,Cancelled,168.93,2024-11-13 03:37:05.448229,309,"No onions, please",Customer request
+928,Completed,309.04,2024-11-23 20:37:05.448236,310,No special instructions,N/A
+929,Cancelled,186.82,2024-11-13 13:37:05.448241,310,Extra spicy,N/A
+930,Completed,160.14,2024-12-29 07:37:05.448247,310,Extra spicy,Customer request
+931,Cancelled,377.97,2024-11-13 18:37:05.448253,311,No special instructions,Customer request
+932,Completed,454.88,2024-12-03 17:37:05.448259,311,Separate packaging,Customer request
+933,Completed,316.29,2024-11-17 03:37:05.448265,311,Separate packaging,N/A
+934,Pending,174.5,2024-12-06 13:37:05.448270,312,No special instructions,Restaurant issue
+935,Pending,324.36,2024-11-11 12:37:05.448276,312,"No onions, please",N/A
+936,Pending,411.16,2024-11-18 18:37:05.448281,312,Extra spicy,N/A
+937,Cancelled,172.23,2024-12-01 21:37:05.448287,313,Extra spicy,N/A
+938,Completed,425.85,2024-12-16 14:37:05.448292,313,Separate packaging,N/A
+939,Completed,378.96,2024-12-29 13:37:05.448297,313,Separate packaging,Restaurant issue
+940,Pending,281.16,2024-12-06 05:37:05.448303,314,"No onions, please",Restaurant issue
+941,Completed,142.53,2024-11-18 08:37:05.448309,314,Extra spicy,N/A
+942,Completed,335.0,2024-11-06 14:37:05.448314,314,No special instructions,N/A
+943,Pending,399.05,2024-11-21 16:37:05.448320,315,No special instructions,N/A
+944,Pending,433.86,2024-12-04 11:37:05.448325,315,Separate packaging,N/A
+945,Pending,206.07,2024-11-20 04:37:05.448330,315,No special instructions,N/A
+946,Pending,440.25,2024-12-14 04:37:05.448336,316,Extra spicy,Customer request
+947,Completed,403.62,2024-12-13 05:37:05.448342,316,Separate packaging,N/A
+948,Pending,372.43,2024-12-06 18:37:05.448347,316,No special instructions,Restaurant issue
+949,Pending,412.02,2024-11-18 16:37:05.448353,317,"No onions, please",Customer request
+950,Cancelled,286.86,2024-12-05 13:37:05.448359,317,"No onions, please",Restaurant issue
+951,Pending,402.33,2024-11-17 13:37:05.448365,317,Extra spicy,Customer request
+952,Cancelled,284.63,2024-12-21 09:37:05.448371,318,No special instructions,N/A
+953,Completed,370.27,2024-12-27 19:37:05.448376,318,No special instructions,Restaurant issue
+954,Pending,233.91,2024-11-29 01:37:05.448382,318,Extra spicy,N/A
+955,Pending,110.73,2024-11-22 12:37:05.448387,319,No special instructions,N/A
+956,Pending,373.99,2024-11-29 13:37:05.448393,319,No special instructions,N/A
+957,Cancelled,458.68,2024-12-03 08:37:05.448398,319,Extra spicy,Restaurant issue
+958,Cancelled,447.52,2024-11-22 02:37:05.448404,320,Separate packaging,Restaurant issue
+959,Pending,430.85,2024-11-16 11:37:05.448410,320,Separate packaging,Customer request
+960,Cancelled,447.34,2024-12-18 07:37:05.448416,320,Extra spicy,Customer request
+961,Pending,218.89,2024-12-27 14:37:05.448423,321,No special instructions,N/A
+962,Cancelled,444.09,2024-11-10 05:37:05.448429,321,"No onions, please",N/A
+963,Completed,400.6,2024-11-02 12:37:05.448434,321,Extra spicy,Customer request
+964,Pending,255.62,2024-11-15 14:37:05.448440,322,Extra spicy,Restaurant issue
+965,Pending,319.7,2024-11-09 02:37:05.448446,322,No special instructions,Restaurant issue
+966,Pending,395.02,2024-11-26 07:37:05.448453,322,"No onions, please",Customer request
+967,Completed,141.8,2025-01-01 11:37:05.448459,323,Separate packaging,Restaurant issue
+968,Completed,405.27,2024-11-23 13:37:05.448465,323,No special instructions,N/A
+969,Completed,424.64,2024-12-02 14:37:05.448470,323,No special instructions,Restaurant issue
+970,Cancelled,339.26,2024-12-24 02:37:05.448478,324,Separate packaging,N/A
+971,Completed,310.46,2024-12-20 16:37:05.448487,324,Extra spicy,N/A
+972,Cancelled,476.24,2024-12-14 05:37:05.448508,324,Separate packaging,Customer request
+973,Pending,413.79,2024-12-12 16:37:05.448516,325,Separate packaging,Customer request
+974,Completed,335.01,2024-12-29 05:37:05.448524,325,Extra spicy,Customer request
+975,Pending,430.5,2024-12-08 23:37:05.448530,325,"No onions, please",Restaurant issue
+976,Pending,240.21,2024-11-07 15:37:05.448536,326,Separate packaging,Customer request
+977,Cancelled,437.34,2024-12-08 07:37:05.448542,326,No special instructions,Customer request
+978,Pending,127.59,2024-11-21 12:37:05.448547,326,Extra spicy,Restaurant issue
+979,Pending,130.1,2024-12-14 14:37:05.448553,327,No special instructions,Customer request
+980,Cancelled,344.97,2024-12-25 09:37:05.448559,327,No special instructions,N/A
+981,Cancelled,111.29,2024-12-02 18:37:05.448564,327,"No onions, please",N/A
+982,Cancelled,212.71,2024-11-29 10:37:05.448571,328,Extra spicy,N/A
+983,Cancelled,272.17,2024-12-27 09:37:05.448576,328,No special instructions,N/A
+984,Cancelled,168.58,2024-12-12 17:37:05.448582,328,"No onions, please",N/A
+985,Pending,243.06,2024-12-18 21:37:05.448588,329,Separate packaging,N/A
+986,Completed,176.66,2024-11-09 17:37:05.448593,329,"No onions, please",N/A
+987,Pending,308.45,2024-12-14 06:37:05.448599,329,"No onions, please",N/A
+988,Pending,456.21,2024-12-21 13:37:05.448604,330,Separate packaging,Restaurant issue
+989,Cancelled,404.77,2024-11-04 17:37:05.448610,330,Extra spicy,N/A
+990,Cancelled,224.12,2024-11-08 06:37:05.448616,330,No special instructions,Restaurant issue
+991,Cancelled,462.06,2024-11-04 08:37:05.448622,331,"No onions, please",Customer request
+992,Pending,170.06,2024-11-21 09:37:05.448628,331,Separate packaging,Customer request
+993,Pending,299.92,2024-11-27 06:37:05.448634,331,Extra spicy,N/A
+994,Cancelled,149.29,2024-11-18 06:37:05.448640,332,Separate packaging,Customer request
+995,Cancelled,412.79,2024-12-24 23:37:05.448645,332,Separate packaging,N/A
+996,Pending,303.87,2024-12-26 05:37:05.448651,332,No special instructions,Customer request
+997,Completed,317.3,2024-12-21 08:37:05.448657,333,"No onions, please",N/A
+998,Pending,255.95,2024-11-11 09:37:05.448662,333,Extra spicy,N/A
+999,Pending,430.08,2024-11-14 21:37:05.448667,333,Extra spicy,N/A
+1000,Cancelled,429.29,2024-11-23 07:37:05.448673,334,Extra spicy,Customer request
+1001,Completed,149.59,2024-12-09 15:37:05.448682,334,No special instructions,N/A
+1002,Completed,451.72,2024-12-09 16:37:05.448692,334,No special instructions,Restaurant issue
+1003,Pending,141.57,2024-12-26 13:37:05.448702,335,Extra spicy,Customer request
+1004,Cancelled,119.44,2024-11-19 22:37:05.448711,335,Extra spicy,Customer request
+1005,Completed,275.13,2024-12-19 01:37:05.448717,335,Extra spicy,N/A
+1006,Completed,201.91,2024-12-02 12:37:05.448722,336,No special instructions,N/A
+1007,Cancelled,412.59,2024-12-15 23:37:05.448728,336,No special instructions,N/A
+1008,Pending,125.32,2024-12-10 19:37:05.448733,336,Separate packaging,Customer request
+1009,Completed,249.61,2024-11-09 23:37:05.448739,337,"No onions, please",N/A
+1010,Cancelled,230.61,2024-12-07 16:37:05.448745,337,Separate packaging,N/A
+1011,Cancelled,301.88,2024-11-02 04:37:05.448750,337,Separate packaging,Customer request
+1012,Pending,269.41,2024-11-28 18:37:05.448756,338,Separate packaging,N/A
+1013,Pending,452.42,2024-11-13 19:37:05.448761,338,Separate packaging,N/A
+1014,Completed,298.32,2024-12-31 06:37:05.448766,338,Extra spicy,Restaurant issue
+1015,Pending,357.04,2024-12-21 21:37:05.448773,339,Separate packaging,N/A
+1016,Completed,414.75,2024-11-22 17:37:05.448779,339,Separate packaging,Customer request
+1017,Cancelled,463.13,2024-12-03 09:37:05.448785,339,No special instructions,Customer request
+1018,Completed,412.32,2024-11-13 09:37:05.448791,340,Extra spicy,N/A
+1019,Completed,274.71,2024-11-20 10:37:05.448796,340,"No onions, please",Customer request
+1020,Completed,236.48,2024-12-15 07:37:05.448803,340,Separate packaging,N/A
+1021,Completed,347.43,2024-11-06 00:37:05.448809,341,Extra spicy,N/A
+1022,Completed,421.9,2024-11-15 06:37:05.448815,341,"No onions, please",Customer request
+1023,Cancelled,498.82,2024-12-23 06:37:05.448821,341,"No onions, please",Customer request
+1024,Cancelled,339.51,2024-11-07 23:37:05.448828,342,No special instructions,Restaurant issue
+1025,Cancelled,276.62,2024-11-13 10:37:05.448834,342,Extra spicy,N/A
+1026,Completed,400.95,2024-12-26 22:37:05.448839,342,"No onions, please",Restaurant issue
+1027,Pending,311.67,2024-12-19 22:37:05.448845,343,No special instructions,N/A
+1028,Cancelled,443.54,2024-12-18 05:37:05.448851,343,"No onions, please",Restaurant issue
+1029,Completed,482.83,2024-11-13 04:37:05.448856,343,Separate packaging,N/A
+1030,Pending,258.64,2024-12-26 07:37:05.448862,344,"No onions, please",N/A
+1031,Cancelled,341.95,2024-11-16 18:37:05.448867,344,"No onions, please",Customer request
+1032,Pending,394.47,2024-12-05 21:37:05.448873,344,Separate packaging,Customer request
+1033,Cancelled,224.46,2024-12-23 19:37:05.448879,345,No special instructions,Customer request
+1034,Pending,209.66,2024-12-18 21:37:05.448885,345,Separate packaging,Restaurant issue
+1035,Pending,430.71,2024-11-18 19:37:05.448891,345,No special instructions,Restaurant issue
+1036,Pending,450.74,2024-12-03 05:37:05.448897,346,"No onions, please",N/A
+1037,Completed,477.01,2024-11-13 03:37:05.448902,346,"No onions, please",Restaurant issue
+1038,Pending,434.91,2024-11-05 10:37:05.448909,346,No special instructions,Customer request
+1039,Pending,350.1,2024-11-08 15:37:05.448915,347,Separate packaging,N/A
+1040,Cancelled,436.06,2024-11-27 13:37:05.448920,347,Extra spicy,N/A
+1041,Cancelled,329.99,2024-11-13 09:37:05.448925,347,Extra spicy,Restaurant issue
+1042,Pending,343.95,2024-12-08 00:37:05.448931,348,Extra spicy,N/A
+1043,Pending,462.54,2024-11-05 06:37:05.448937,348,No special instructions,Customer request
+1044,Cancelled,215.93,2024-12-19 15:37:05.448943,348,Extra spicy,N/A
+1045,Cancelled,477.55,2024-12-29 05:37:05.448949,349,"No onions, please",N/A
+1046,Cancelled,334.97,2024-12-11 13:37:05.448954,349,Separate packaging,N/A
+1047,Pending,487.92,2024-12-22 01:37:05.448959,349,No special instructions,Customer request
+1048,Pending,129.08,2024-12-01 11:37:05.448966,350,No special instructions,N/A
+1049,Completed,296.81,2024-12-24 10:37:05.448971,350,Extra spicy,N/A
+1050,Pending,314.71,2024-11-20 00:37:05.448977,350,Separate packaging,N/A
+1051,Pending,145.46,2024-11-19 02:37:05.448982,351,"No onions, please",Customer request
+1052,Completed,144.52,2024-11-29 18:37:05.448988,351,Separate packaging,N/A
+1053,Completed,268.74,2024-11-03 05:37:05.448993,351,No special instructions,N/A
+1054,Cancelled,111.73,2024-11-16 01:37:05.448999,352,Extra spicy,Customer request
+1055,Completed,104.06,2024-12-16 06:37:05.449004,352,Separate packaging,N/A
+1056,Cancelled,408.28,2025-01-01 11:37:05.449011,352,No special instructions,Restaurant issue
+1057,Completed,289.08,2024-12-23 00:37:05.449017,353,No special instructions,N/A
+1058,Pending,113.21,2024-12-03 13:37:05.449022,353,Extra spicy,N/A
+1059,Cancelled,321.67,2024-12-29 06:37:05.449028,353,No special instructions,Restaurant issue
+1060,Pending,371.87,2024-11-22 08:37:05.449034,354,No special instructions,Customer request
+1061,Pending,442.96,2024-12-01 04:37:05.449040,354,Separate packaging,Customer request
+1062,Completed,142.27,2024-11-21 16:37:05.449046,354,Separate packaging,Restaurant issue
+1063,Completed,211.06,2024-11-28 19:37:05.449052,355,No special instructions,N/A
+1064,Completed,356.24,2024-11-13 18:37:05.449057,355,"No onions, please",Customer request
+1065,Completed,476.03,2024-12-12 20:37:05.449063,355,No special instructions,Customer request
+1066,Cancelled,233.12,2024-12-19 11:37:05.449069,356,No special instructions,Customer request
+1067,Cancelled,274.18,2024-11-15 16:37:05.449075,356,Separate packaging,Customer request
+1068,Pending,385.22,2024-12-07 04:37:05.449081,356,Separate packaging,Customer request
+1069,Pending,372.21,2024-12-22 23:37:05.449088,357,Separate packaging,Customer request
+1070,Completed,181.53,2024-11-30 23:37:05.449093,357,Extra spicy,N/A
+1071,Cancelled,211.89,2024-12-01 15:37:05.449099,357,Separate packaging,N/A
+1072,Pending,192.44,2024-12-25 13:37:05.449104,358,Extra spicy,Customer request
+1073,Pending,184.13,2024-12-03 17:37:05.449110,358,Separate packaging,Customer request
+1074,Pending,219.69,2024-11-17 23:37:05.449116,358,"No onions, please",N/A
+1075,Pending,272.61,2024-12-19 14:37:05.449122,359,Extra spicy,N/A
+1076,Pending,204.9,2024-12-25 18:37:05.449129,359,Separate packaging,N/A
+1077,Cancelled,193.94,2024-11-22 19:37:05.449138,359,Extra spicy,Customer request
+1078,Cancelled,134.43,2024-11-14 08:37:05.449148,360,Separate packaging,Customer request
+1079,Completed,134.47,2024-12-09 14:37:05.449154,360,No special instructions,Customer request
+1080,Completed,186.1,2024-11-07 01:37:05.449161,360,Extra spicy,N/A
+1081,Cancelled,291.6,2024-11-24 16:37:05.449166,361,No special instructions,Customer request
+1082,Pending,319.03,2024-12-31 22:37:05.449173,361,Extra spicy,Customer request
+1083,Pending,494.63,2024-11-17 11:37:05.449179,361,Extra spicy,N/A
+1084,Pending,461.73,2024-11-22 11:37:05.449184,362,Extra spicy,Restaurant issue
+1085,Completed,412.91,2024-11-19 06:37:05.449190,362,Extra spicy,Restaurant issue
+1086,Cancelled,421.84,2024-12-14 13:37:05.449196,362,No special instructions,N/A
+1087,Cancelled,170.37,2024-11-21 03:37:05.449201,363,Extra spicy,N/A
+1088,Cancelled,242.43,2025-01-01 08:37:05.449207,363,No special instructions,Restaurant issue
+1089,Pending,474.29,2024-12-18 21:37:05.449213,363,No special instructions,Customer request
+1090,Pending,403.72,2024-11-29 03:37:05.449220,364,No special instructions,Restaurant issue
+1091,Completed,241.1,2024-11-27 16:37:05.449230,364,"No onions, please",N/A
+1092,Cancelled,460.31,2024-11-04 14:37:05.449240,364,"No onions, please",N/A
+1093,Cancelled,131.19,2024-11-28 06:37:05.449246,365,No special instructions,Customer request
+1094,Pending,437.59,2024-12-14 19:37:05.449252,365,No special instructions,Customer request
+1095,Cancelled,289.64,2024-12-02 05:37:05.449258,365,Separate packaging,Restaurant issue
+1096,Cancelled,274.77,2024-11-25 13:37:05.449264,366,Extra spicy,Customer request
+1097,Completed,443.57,2024-12-13 23:37:05.449270,366,"No onions, please",Restaurant issue
+1098,Completed,126.89,2024-11-11 04:37:05.449276,366,No special instructions,N/A
+1099,Completed,189.24,2024-11-24 22:37:05.449282,367,"No onions, please",N/A
+1100,Pending,236.31,2024-11-09 11:37:05.449287,367,"No onions, please",Restaurant issue
+1101,Completed,231.56,2024-11-09 23:37:05.449293,367,Separate packaging,Customer request
+1102,Completed,455.68,2024-12-17 15:37:05.449299,368,No special instructions,N/A
+1103,Cancelled,248.41,2024-11-20 11:37:05.449304,368,Extra spicy,N/A
+1104,Cancelled,300.01,2024-12-17 22:37:05.449310,368,Extra spicy,N/A
+1105,Cancelled,253.95,2024-12-21 21:37:05.449315,369,"No onions, please",Customer request
+1106,Cancelled,452.44,2024-11-11 13:37:05.449321,369,"No onions, please",N/A
+1107,Cancelled,473.34,2024-12-17 11:37:05.449327,369,No special instructions,Customer request
+1108,Pending,300.7,2024-11-22 05:37:05.449332,370,Separate packaging,N/A
+1109,Pending,448.55,2024-12-10 04:37:05.449338,370,No special instructions,Customer request
+1110,Cancelled,476.28,2024-11-17 14:37:05.449344,370,No special instructions,N/A
+1111,Completed,253.01,2024-12-03 00:37:05.449349,371,Extra spicy,N/A
+1112,Pending,304.14,2024-11-15 15:37:05.449354,371,Extra spicy,Customer request
+1113,Cancelled,364.2,2024-12-18 10:37:05.449360,371,No special instructions,Restaurant issue
+1114,Pending,215.32,2024-12-24 15:37:05.449366,372,"No onions, please",Restaurant issue
+1115,Completed,158.59,2024-12-06 05:37:05.449372,372,No special instructions,N/A
+1116,Completed,365.99,2024-11-29 04:37:05.449377,372,Extra spicy,Customer request
+1117,Completed,384.07,2024-11-03 10:37:05.449383,373,"No onions, please",Customer request
+1118,Completed,390.26,2024-12-05 04:37:05.449388,373,No special instructions,Customer request
+1119,Cancelled,332.24,2024-12-20 01:37:05.449394,373,Extra spicy,Customer request
+1120,Cancelled,214.78,2024-12-12 20:37:05.449401,374,Extra spicy,Customer request
+1121,Completed,360.85,2024-12-30 22:37:05.449406,374,Extra spicy,N/A
+1122,Pending,376.58,2024-11-13 22:37:05.449412,374,No special instructions,Customer request
+1123,Pending,364.25,2024-11-27 02:37:05.449418,375,"No onions, please",N/A
+1124,Completed,434.18,2024-12-19 16:37:05.449423,375,Separate packaging,Customer request
+1125,Completed,415.97,2024-12-17 19:37:05.449429,375,"No onions, please",Restaurant issue
+1126,Pending,201.55,2024-11-18 09:37:05.449435,376,No special instructions,N/A
+1127,Pending,212.68,2024-12-18 05:37:05.449441,376,"No onions, please",Customer request
+1128,Completed,427.2,2024-12-17 22:37:05.449446,376,Separate packaging,N/A
+1129,Pending,301.99,2024-12-14 03:37:05.449452,377,"No onions, please",N/A
+1130,Completed,267.14,2024-11-17 00:37:05.449458,377,"No onions, please",N/A
+1131,Completed,187.85,2024-12-05 18:37:05.449463,377,Separate packaging,N/A
+1132,Pending,488.58,2024-12-30 05:37:05.449469,378,Extra spicy,Customer request
+1133,Pending,480.64,2024-12-19 15:37:05.449474,378,"No onions, please",N/A
+1134,Pending,309.08,2024-11-06 19:37:05.449480,378,No special instructions,N/A
+1135,Completed,367.36,2024-11-03 13:37:05.449486,379,Extra spicy,N/A
+1136,Pending,415.06,2024-12-08 16:37:05.449491,379,"No onions, please",Restaurant issue
+1137,Cancelled,156.3,2024-12-06 22:37:05.449497,379,Separate packaging,N/A
+1138,Pending,126.59,2024-12-05 12:37:05.449502,380,Separate packaging,Customer request
+1139,Cancelled,393.63,2024-12-02 00:37:05.449508,380,"No onions, please",N/A
+1140,Pending,467.75,2024-11-03 17:37:05.449514,380,No special instructions,N/A
+1141,Cancelled,151.54,2024-11-20 19:37:05.449520,381,"No onions, please",Customer request
+1142,Cancelled,487.93,2024-11-13 14:37:05.449526,381,Separate packaging,N/A
+1143,Pending,260.92,2024-11-21 03:37:05.449531,381,Extra spicy,Customer request
+1144,Completed,360.52,2024-12-09 04:37:05.449537,382,"No onions, please",N/A
+1145,Pending,104.18,2024-12-02 20:37:05.449543,382,Separate packaging,Restaurant issue
+1146,Pending,322.44,2024-11-18 22:37:05.449549,382,Separate packaging,N/A
+1147,Completed,149.08,2024-11-02 13:37:05.449568,383,No special instructions,N/A
+1148,Pending,224.47,2024-12-24 19:37:05.449576,383,Separate packaging,Restaurant issue
+1149,Pending,157.37,2024-12-20 07:37:05.449586,383,Extra spicy,Customer request
+1150,Pending,312.27,2024-11-06 06:37:05.449596,384,Extra spicy,N/A
+1151,Completed,144.07,2024-11-19 09:37:05.449605,384,Separate packaging,Restaurant issue
+1152,Pending,130.43,2024-11-08 10:37:05.449617,384,Extra spicy,N/A
+1153,Cancelled,398.14,2024-11-08 23:37:05.449626,385,Extra spicy,N/A
+1154,Cancelled,153.73,2024-12-27 07:37:05.449631,385,Extra spicy,Customer request
+1155,Pending,280.24,2025-01-01 08:37:05.449637,385,"No onions, please",N/A
+1156,Completed,394.91,2024-12-19 06:37:05.449643,386,No special instructions,Customer request
+1157,Completed,151.88,2024-12-21 06:37:05.449651,386,No special instructions,N/A
+1158,Completed,273.35,2024-11-03 21:37:05.449660,386,Separate packaging,Restaurant issue
+1159,Pending,226.92,2024-12-15 03:37:05.449671,387,"No onions, please",N/A
+1160,Cancelled,267.09,2024-12-20 10:37:05.449676,387,Separate packaging,Customer request
+1161,Completed,223.19,2024-11-17 17:37:05.449682,387,"No onions, please",N/A
+1162,Cancelled,273.24,2024-12-04 11:37:05.449688,388,Separate packaging,N/A
+1163,Pending,366.04,2024-11-02 01:37:05.449693,388,Separate packaging,N/A
+1164,Cancelled,308.97,2024-12-18 02:37:05.449698,388,No special instructions,N/A
+1165,Pending,419.59,2024-11-08 13:37:05.449704,389,"No onions, please",Customer request
+1166,Completed,381.19,2024-11-21 10:37:05.449710,389,Extra spicy,Customer request
+1167,Completed,307.01,2024-11-04 13:37:05.449716,389,No special instructions,Customer request
+1168,Completed,401.88,2024-12-25 06:37:05.449722,390,No special instructions,N/A
+1169,Pending,301.86,2024-12-23 18:37:05.449727,390,No special instructions,Restaurant issue
+1170,Cancelled,176.53,2024-12-20 18:37:05.449733,390,No special instructions,Customer request
+1171,Pending,490.02,2024-11-28 08:37:05.449740,391,No special instructions,N/A
+1172,Pending,125.55,2024-12-18 14:37:05.449745,391,No special instructions,N/A
+1173,Pending,406.44,2024-12-04 19:37:05.449751,391,No special instructions,N/A
+1174,Pending,420.08,2024-12-17 11:37:05.449761,392,Separate packaging,Customer request
+1175,Completed,170.58,2024-12-17 04:37:05.449771,392,Extra spicy,N/A
+1176,Completed,118.18,2024-11-14 10:37:05.449782,392,Separate packaging,N/A
+1177,Completed,306.85,2024-11-05 16:37:05.449788,393,Separate packaging,Restaurant issue
+1178,Cancelled,110.94,2024-11-09 22:37:05.449793,393,Extra spicy,N/A
+1179,Cancelled,218.4,2024-11-19 13:37:05.449799,393,No special instructions,Restaurant issue
+1180,Completed,277.54,2024-12-25 22:37:05.449805,394,Separate packaging,Customer request
+1181,Pending,172.17,2024-12-29 14:37:05.449811,394,Separate packaging,Restaurant issue
+1182,Completed,134.63,2024-11-26 17:37:05.449816,394,"No onions, please",N/A
+1183,Pending,100.34,2024-12-14 19:37:05.449822,395,"No onions, please",N/A
+1184,Pending,139.21,2024-12-08 03:37:05.449828,395,"No onions, please",N/A
+1185,Completed,230.85,2024-12-04 15:37:05.449834,395,"No onions, please",Customer request
+1186,Completed,344.97,2024-12-24 23:37:05.449840,396,"No onions, please",Restaurant issue
+1187,Completed,251.09,2024-11-15 13:37:05.449846,396,"No onions, please",Restaurant issue
+1188,Completed,292.92,2024-12-31 01:37:05.449852,396,Separate packaging,Customer request
+1189,Cancelled,447.48,2024-12-06 14:37:05.449858,397,"No onions, please",Customer request
+1190,Pending,151.05,2024-12-18 19:37:05.449864,397,No special instructions,N/A
+1191,Pending,210.61,2024-11-10 01:37:05.449869,397,"No onions, please",Customer request
+1192,Pending,499.2,2024-11-03 20:37:05.449875,398,Extra spicy,N/A
+1193,Pending,168.48,2024-11-18 17:37:05.449880,398,Extra spicy,Restaurant issue
+1194,Pending,326.47,2024-11-11 08:37:05.449886,398,Separate packaging,N/A
+1195,Completed,323.21,2024-12-07 16:37:05.449892,399,Extra spicy,Customer request
+1196,Pending,426.0,2024-12-09 12:37:05.449897,399,"No onions, please",N/A
+1197,Completed,303.91,2024-11-23 09:37:05.449902,399,Separate packaging,Customer request
+1198,Cancelled,357.0,2024-11-30 15:37:05.449909,400,Separate packaging,Customer request
+1199,Pending,309.15,2024-12-22 02:37:05.449915,400,No special instructions,Customer request
+1200,Completed,381.77,2024-11-10 13:37:05.449921,400,Extra spicy,Restaurant issue
+1201,Completed,433.53,2024-11-10 16:37:05.449926,401,Separate packaging,N/A
+1202,Cancelled,313.17,2024-12-27 01:37:05.449931,401,Separate packaging,N/A
+1203,Cancelled,226.56,2024-12-05 07:37:05.449936,401,"No onions, please",Customer request
+1204,Pending,429.38,2024-11-22 02:37:05.449942,402,No special instructions,N/A
+1205,Cancelled,358.25,2024-11-19 22:37:05.449947,402,Separate packaging,Restaurant issue
+1206,Cancelled,272.12,2024-11-19 18:37:05.449953,402,No special instructions,Customer request
+1207,Completed,493.5,2024-12-08 20:37:05.449959,403,"No onions, please",N/A
+1208,Cancelled,476.16,2024-12-07 06:37:05.449965,403,Separate packaging,Customer request
+1209,Completed,277.53,2024-12-31 10:37:05.449971,403,"No onions, please",Restaurant issue
+1210,Pending,363.75,2024-11-14 05:37:05.449977,404,Separate packaging,Restaurant issue
+1211,Completed,301.2,2024-11-21 06:37:05.449983,404,Separate packaging,Customer request
+1212,Completed,324.37,2024-11-21 00:37:05.449989,404,"No onions, please",N/A
+1213,Pending,392.35,2024-11-17 22:37:05.449994,405,Separate packaging,Restaurant issue
+1214,Pending,118.2,2024-12-10 22:37:05.450000,405,"No onions, please",Customer request
+1215,Completed,236.25,2024-12-12 06:37:05.450006,405,No special instructions,N/A
+1216,Pending,465.99,2024-11-30 05:37:05.450012,406,No special instructions,N/A
+1217,Cancelled,318.06,2024-12-26 09:37:05.450017,406,Separate packaging,N/A
+1218,Cancelled,399.0,2024-12-17 13:37:05.450023,406,"No onions, please",N/A
+1219,Pending,224.22,2024-11-06 22:37:05.450029,407,Extra spicy,N/A
+1220,Completed,203.81,2024-11-09 23:37:05.450034,407,No special instructions,N/A
+1221,Cancelled,438.61,2024-12-14 20:37:05.450040,407,No special instructions,Restaurant issue
+1222,Completed,343.04,2024-11-23 18:37:05.450046,408,Extra spicy,N/A
+1223,Pending,318.46,2024-12-25 18:37:05.450051,408,Extra spicy,Customer request
+1224,Pending,413.23,2024-12-03 13:37:05.450057,408,Separate packaging,Restaurant issue
+1225,Pending,288.33,2024-12-19 08:37:05.450067,409,Separate packaging,Restaurant issue
+1226,Completed,167.04,2024-12-27 00:37:05.450077,409,Separate packaging,N/A
+1227,Pending,364.56,2024-11-23 16:37:05.450084,409,"No onions, please",N/A
+1228,Pending,412.84,2024-11-04 06:37:05.450089,410,"No onions, please",Restaurant issue
+1229,Pending,249.84,2024-11-22 21:37:05.450095,410,No special instructions,Customer request
+1230,Completed,381.12,2024-11-02 03:37:05.450102,410,Extra spicy,N/A
+1231,Cancelled,438.39,2024-11-10 11:37:05.450108,411,Separate packaging,N/A
+1232,Cancelled,484.95,2024-12-01 01:37:05.450113,411,Extra spicy,N/A
+1233,Cancelled,244.14,2024-12-03 02:37:05.450118,411,Separate packaging,N/A
+1234,Cancelled,272.37,2024-11-12 14:37:05.450124,412,No special instructions,N/A
+1235,Cancelled,124.98,2024-11-27 22:37:05.450129,412,No special instructions,N/A
+1236,Completed,473.93,2024-12-12 14:37:05.450135,412,Extra spicy,Customer request
+1237,Completed,180.42,2024-11-28 03:37:05.450141,413,"No onions, please",Customer request
+1238,Cancelled,359.18,2024-11-06 11:37:05.450147,413,No special instructions,Restaurant issue
+1239,Cancelled,419.41,2024-12-24 20:37:05.450152,413,No special instructions,N/A
+1240,Cancelled,238.36,2024-12-22 06:37:05.450158,414,Extra spicy,N/A
+1241,Cancelled,202.06,2024-12-29 16:37:05.450164,414,"No onions, please",Customer request
+1242,Cancelled,220.31,2024-12-28 16:37:05.450169,414,Separate packaging,Customer request
+1243,Pending,141.83,2024-11-28 18:37:05.450175,415,Separate packaging,N/A
+1244,Pending,260.1,2024-11-24 00:37:05.450181,415,No special instructions,Restaurant issue
+1245,Pending,154.72,2024-11-28 01:37:05.450187,415,Separate packaging,Restaurant issue
+1246,Completed,214.2,2024-12-28 05:37:05.450195,416,Extra spicy,N/A
+1247,Cancelled,335.91,2024-12-12 00:37:05.450201,416,"No onions, please",Customer request
+1248,Cancelled,367.38,2024-11-11 05:37:05.450211,416,No special instructions,N/A
+1249,Pending,332.21,2024-12-11 08:37:05.450221,417,Extra spicy,N/A
+1250,Pending,129.93,2024-11-21 01:37:05.450228,417,Separate packaging,Restaurant issue
+1251,Cancelled,445.54,2024-12-20 09:37:05.450234,417,"No onions, please",Customer request
+1252,Pending,308.83,2024-11-25 08:37:05.450240,418,Separate packaging,N/A
+1253,Cancelled,294.54,2024-12-16 13:37:05.450246,418,Extra spicy,Customer request
+1254,Pending,239.45,2024-12-04 15:37:05.450251,418,No special instructions,Customer request
+1255,Cancelled,455.11,2024-11-05 14:37:05.450257,419,"No onions, please",N/A
+1256,Completed,139.26,2024-11-29 19:37:05.450262,419,Extra spicy,Customer request
+1257,Cancelled,436.61,2024-11-21 16:37:05.450269,419,Separate packaging,Restaurant issue
+1258,Pending,498.44,2024-11-27 10:37:05.450285,420,No special instructions,Customer request
+1259,Cancelled,390.96,2024-11-20 13:37:05.450291,420,Extra spicy,Restaurant issue
+1260,Cancelled,161.91,2024-11-19 06:37:05.450297,420,No special instructions,N/A
+1261,Completed,157.55,2024-12-28 13:37:05.450306,421,Separate packaging,Customer request
+1262,Cancelled,297.87,2024-12-13 13:37:05.450318,421,Separate packaging,Restaurant issue
+1263,Cancelled,150.98,2024-12-23 10:37:05.450324,421,Extra spicy,Customer request
+1264,Pending,317.16,2024-11-10 03:37:05.450330,422,No special instructions,Customer request
+1265,Cancelled,311.05,2024-12-17 15:37:05.450335,422,No special instructions,N/A
+1266,Pending,495.59,2024-12-07 19:37:05.450340,422,"No onions, please",N/A
+1267,Cancelled,455.08,2024-11-07 09:37:05.450346,423,No special instructions,Restaurant issue
+1268,Completed,375.28,2024-11-18 02:37:05.450352,423,No special instructions,N/A
+1269,Completed,441.07,2024-12-25 17:37:05.450357,423,No special instructions,N/A
+1270,Completed,358.86,2024-12-11 04:37:05.450362,424,"No onions, please",Customer request
+1271,Completed,284.78,2024-12-13 06:37:05.450368,424,"No onions, please",N/A
+1272,Completed,440.48,2024-12-05 15:37:05.450373,424,"No onions, please",Customer request
+1273,Completed,156.63,2024-11-27 08:37:05.450380,425,"No onions, please",N/A
+1274,Pending,132.85,2024-12-22 18:37:05.450385,425,"No onions, please",Restaurant issue
+1275,Cancelled,149.72,2024-11-08 14:37:05.450391,425,Separate packaging,Restaurant issue
+1276,Completed,126.62,2024-11-16 18:37:05.450397,426,Separate packaging,N/A
+1277,Cancelled,234.58,2024-11-07 23:37:05.450402,426,Extra spicy,Restaurant issue
+1278,Pending,200.6,2024-11-01 20:37:05.450408,426,Extra spicy,Customer request
+1279,Cancelled,148.74,2024-11-18 01:37:05.450414,427,Extra spicy,N/A
+1280,Completed,471.25,2024-12-11 10:37:05.450420,427,"No onions, please",Customer request
+1281,Completed,438.12,2024-12-26 06:37:05.450426,427,"No onions, please",Customer request
+1282,Pending,330.99,2024-11-15 21:37:05.450432,428,No special instructions,Restaurant issue
+1283,Completed,384.03,2024-11-01 13:37:05.450438,428,"No onions, please",Restaurant issue
+1284,Cancelled,490.22,2024-11-03 20:37:05.450444,428,Separate packaging,Restaurant issue
+1285,Cancelled,238.24,2024-11-07 13:37:05.450450,429,Extra spicy,Restaurant issue
+1286,Pending,164.65,2024-12-08 17:37:05.450455,429,No special instructions,N/A
+1287,Pending,349.31,2024-12-03 02:37:05.450460,429,"No onions, please",N/A
+1288,Cancelled,495.14,2024-11-17 23:37:05.450466,430,Extra spicy,Restaurant issue
+1289,Cancelled,354.8,2024-12-05 00:37:05.450472,430,Separate packaging,N/A
+1290,Pending,247.19,2024-12-28 17:37:05.450477,430,Extra spicy,Restaurant issue
+1291,Pending,113.16,2024-11-20 23:37:05.450483,431,Extra spicy,N/A
+1292,Pending,130.06,2024-12-07 12:37:05.450488,431,Extra spicy,N/A
+1293,Cancelled,362.52,2024-11-22 00:37:05.450494,431,Separate packaging,Customer request
+1294,Cancelled,392.1,2024-11-17 21:37:05.450501,432,Extra spicy,Customer request
+1295,Pending,114.77,2024-12-17 21:37:05.450507,432,Separate packaging,N/A
+1296,Cancelled,280.35,2024-11-27 06:37:05.450512,432,Separate packaging,N/A
+1297,Pending,194.41,2024-11-18 08:37:05.450517,433,Extra spicy,N/A
+1298,Cancelled,427.99,2024-11-05 03:37:05.450523,433,No special instructions,N/A
+1299,Cancelled,374.89,2024-12-21 17:37:05.450528,433,"No onions, please",Restaurant issue
+1300,Pending,360.18,2024-12-15 08:37:05.450534,434,"No onions, please",N/A
+1301,Cancelled,279.52,2024-11-01 18:37:05.450539,434,"No onions, please",N/A
+1302,Completed,406.79,2024-12-14 22:37:05.450545,434,No special instructions,N/A
+1303,Cancelled,359.83,2024-11-10 07:37:05.450550,435,Extra spicy,Customer request
+1304,Pending,275.56,2024-12-28 07:37:05.450556,435,No special instructions,N/A
+1305,Pending,465.76,2024-11-12 13:37:05.450562,435,"No onions, please",N/A
+1306,Completed,287.63,2024-11-16 00:37:05.450567,436,No special instructions,N/A
+1307,Completed,375.25,2024-12-03 08:37:05.450573,436,Extra spicy,N/A
+1308,Completed,181.0,2024-12-10 05:37:05.450578,436,Separate packaging,N/A
+1309,Pending,336.18,2024-12-24 15:37:05.450584,437,No special instructions,Customer request
+1310,Completed,291.16,2024-12-14 12:37:05.450590,437,No special instructions,Restaurant issue
+1311,Pending,410.64,2024-12-30 04:37:05.450595,437,Extra spicy,Restaurant issue
+1312,Completed,385.04,2024-11-24 06:37:05.450602,438,Separate packaging,Restaurant issue
+1313,Pending,475.86,2024-12-24 11:37:05.450608,438,No special instructions,N/A
+1314,Pending,105.8,2024-11-02 08:37:05.450613,438,Extra spicy,N/A
+1315,Pending,275.24,2024-12-24 12:37:05.450619,439,"No onions, please",N/A
+1316,Pending,278.11,2024-11-17 12:37:05.450624,439,"No onions, please",Customer request
+1317,Cancelled,108.83,2024-11-12 01:37:05.450630,439,Separate packaging,N/A
+1318,Cancelled,260.7,2024-12-10 05:37:05.450636,440,Separate packaging,N/A
+1319,Completed,485.28,2024-12-06 21:37:05.450642,440,"No onions, please",Restaurant issue
+1320,Cancelled,224.86,2024-12-21 04:37:05.450647,440,No special instructions,N/A
+1321,Cancelled,400.36,2024-12-27 09:37:05.450653,441,Separate packaging,N/A
+1322,Pending,235.78,2025-01-01 10:37:05.450658,441,Separate packaging,Restaurant issue
+1323,Completed,281.82,2024-11-07 23:37:05.450664,441,"No onions, please",N/A
+1324,Pending,418.38,2024-12-15 09:37:05.450673,442,"No onions, please",N/A
+1325,Cancelled,271.08,2025-01-01 08:37:05.450682,442,Separate packaging,N/A
+1326,Cancelled,109.48,2024-12-04 16:37:05.450692,442,"No onions, please",N/A
+1327,Completed,472.72,2024-11-17 14:37:05.450701,443,No special instructions,N/A
+1328,Cancelled,275.66,2024-11-07 02:37:05.450707,443,Extra spicy,N/A
+1329,Cancelled,484.83,2024-12-01 08:37:05.450712,443,Extra spicy,N/A
+1330,Pending,449.98,2024-11-04 02:37:05.450717,444,"No onions, please",N/A
+1331,Pending,124.46,2024-11-23 17:37:05.450722,444,No special instructions,N/A
+1332,Pending,324.93,2024-11-28 20:37:05.450727,444,Extra spicy,N/A
+1333,Completed,302.71,2024-12-24 13:37:05.450733,445,"No onions, please",Customer request
+1334,Pending,121.4,2024-11-21 13:37:05.450738,445,"No onions, please",N/A
+1335,Pending,127.32,2024-11-18 16:37:05.450744,445,No special instructions,N/A
+1336,Completed,239.31,2024-11-14 01:37:05.450749,446,Extra spicy,Restaurant issue
+1337,Cancelled,150.72,2024-11-13 10:37:05.450755,446,"No onions, please",Restaurant issue
+1338,Pending,259.14,2024-11-22 13:37:05.450760,446,No special instructions,Customer request
+1339,Pending,373.96,2024-12-04 01:37:05.450766,447,"No onions, please",Restaurant issue
+1340,Pending,490.94,2024-12-22 22:37:05.450772,447,Separate packaging,Customer request
+1341,Pending,496.57,2024-12-18 11:37:05.450778,447,No special instructions,Restaurant issue
+1342,Cancelled,460.84,2024-12-29 18:37:05.450784,448,Separate packaging,N/A
+1343,Cancelled,330.29,2024-12-26 10:37:05.450789,448,"No onions, please",Customer request
+1344,Completed,224.89,2024-12-20 21:37:05.450796,448,"No onions, please",Restaurant issue
+1345,Pending,337.01,2024-12-22 22:37:05.450802,449,"No onions, please",N/A
+1346,Completed,491.17,2024-11-14 01:37:05.450807,449,No special instructions,Customer request
+1347,Pending,453.3,2024-12-10 10:37:05.450813,449,"No onions, please",Restaurant issue
+1348,Completed,150.36,2024-12-01 01:37:05.450820,450,Separate packaging,Customer request
+1349,Pending,379.47,2024-11-15 11:37:05.450828,450,No special instructions,N/A
+1350,Pending,371.87,2024-12-27 10:37:05.450837,450,Separate packaging,N/A
+1351,Completed,112.29,2024-12-06 08:37:05.450847,451,"No onions, please",N/A
+1352,Completed,356.1,2024-12-07 06:37:05.450857,451,No special instructions,N/A
+1353,Completed,370.76,2024-12-07 04:37:05.450862,451,Extra spicy,Restaurant issue
+1354,Completed,162.37,2024-12-21 13:37:05.450869,452,Separate packaging,N/A
+1355,Completed,177.94,2024-11-04 07:37:05.450874,452,Separate packaging,N/A
+1356,Completed,357.26,2024-11-29 14:37:05.450880,452,"No onions, please",N/A
+1357,Cancelled,258.74,2024-12-21 14:37:05.450886,453,Separate packaging,N/A
+1358,Cancelled,233.2,2024-12-05 16:37:05.450891,453,Separate packaging,Customer request
+1359,Cancelled,270.28,2024-12-19 13:37:05.450898,453,"No onions, please",Customer request
+1360,Pending,341.21,2024-12-01 08:37:05.450904,454,"No onions, please",Restaurant issue
+1361,Completed,288.36,2024-12-29 01:37:05.450910,454,Separate packaging,Restaurant issue
+1362,Cancelled,409.98,2024-12-14 20:37:05.450916,454,Extra spicy,N/A
+1363,Cancelled,288.79,2024-11-16 07:37:05.450921,455,Extra spicy,N/A
+1364,Completed,109.2,2024-12-14 10:37:05.450927,455,Extra spicy,N/A
+1365,Completed,216.82,2024-11-15 18:37:05.450932,455,No special instructions,Customer request
+1366,Pending,449.53,2024-12-22 10:37:05.450938,456,"No onions, please",N/A
+1367,Pending,370.71,2024-11-26 10:37:05.450943,456,Extra spicy,Customer request
+1368,Completed,297.96,2024-11-22 06:37:05.450949,456,"No onions, please",N/A
+1369,Pending,373.33,2024-11-11 23:37:05.450955,457,Extra spicy,N/A
+1370,Pending,158.66,2024-12-10 11:37:05.450960,457,"No onions, please",N/A
+1371,Completed,207.95,2024-12-24 22:37:05.450965,457,"No onions, please",Restaurant issue
+1372,Pending,117.09,2024-11-02 05:37:05.450971,458,Extra spicy,N/A
+1373,Completed,311.29,2024-11-22 13:37:05.450976,458,Extra spicy,N/A
+1374,Cancelled,113.35,2024-11-17 22:37:05.450982,458,"No onions, please",N/A
+1375,Completed,432.36,2024-11-11 16:37:05.450987,459,No special instructions,Restaurant issue
+1376,Completed,467.7,2024-12-04 18:37:05.450993,459,Separate packaging,N/A
+1377,Pending,395.05,2024-12-29 06:37:05.450999,459,Extra spicy,N/A
+1378,Pending,214.67,2024-11-23 17:37:05.451005,460,"No onions, please",N/A
+1379,Completed,435.93,2024-11-16 12:37:05.451011,460,Extra spicy,N/A
+1380,Cancelled,494.9,2024-12-29 17:37:05.451016,460,Separate packaging,N/A
+1381,Cancelled,305.87,2024-12-30 19:37:05.451022,461,"No onions, please",Customer request
+1382,Completed,268.11,2024-11-02 11:37:05.451028,461,Extra spicy,N/A
+1383,Completed,425.84,2024-12-16 12:37:05.451033,461,Separate packaging,N/A
+1384,Completed,282.45,2024-12-30 10:37:05.451039,462,"No onions, please",Restaurant issue
+1385,Cancelled,207.02,2024-12-05 00:37:05.451045,462,Extra spicy,Customer request
+1386,Completed,371.86,2024-12-27 09:37:05.451051,462,No special instructions,N/A
+1387,Pending,468.09,2024-11-07 18:37:05.451056,463,"No onions, please",Customer request
+1388,Cancelled,153.69,2024-11-06 21:37:05.451062,463,No special instructions,Customer request
+1389,Cancelled,249.42,2024-12-07 04:37:05.451068,463,Extra spicy,Customer request
+1390,Completed,232.77,2024-12-10 15:37:05.451074,464,Extra spicy,Customer request
+1391,Completed,353.78,2024-12-07 20:37:05.451079,464,No special instructions,Restaurant issue
+1392,Pending,330.82,2024-12-29 04:37:05.451085,464,No special instructions,N/A
+1393,Pending,428.5,2024-11-29 21:37:05.451091,465,No special instructions,N/A
+1394,Completed,469.05,2024-12-28 00:37:05.451097,465,"No onions, please",Restaurant issue
+1395,Completed,104.12,2024-12-15 15:37:05.451102,465,Separate packaging,N/A
+1396,Cancelled,419.7,2024-11-25 07:37:05.451108,466,"No onions, please",Restaurant issue
+1397,Cancelled,444.66,2024-11-23 08:37:05.451114,466,Extra spicy,N/A
+1398,Completed,153.43,2024-12-10 11:37:05.451119,466,Extra spicy,Restaurant issue
+1399,Completed,389.27,2024-12-24 18:37:05.451125,467,"No onions, please",Customer request
+1400,Cancelled,121.69,2024-11-08 20:37:05.451130,467,Separate packaging,N/A
+1401,Pending,453.54,2024-11-09 17:37:05.451137,467,"No onions, please",N/A
+1402,Cancelled,129.65,2024-11-16 04:37:05.451142,468,Separate packaging,N/A
+1403,Completed,441.03,2024-12-22 20:37:05.451147,468,No special instructions,Restaurant issue
+1404,Cancelled,172.33,2024-11-05 08:37:05.451153,468,"No onions, please",N/A
+1405,Cancelled,179.89,2024-12-28 20:37:05.451159,469,Separate packaging,Customer request
+1406,Pending,474.22,2024-12-16 09:37:05.451167,469,No special instructions,Customer request
+1407,Completed,451.71,2024-11-12 12:37:05.451173,469,No special instructions,N/A
+1408,Completed,274.33,2024-11-16 11:37:05.451179,470,Extra spicy,N/A
+1409,Cancelled,402.37,2024-11-06 19:37:05.451185,470,Extra spicy,Restaurant issue
+1410,Cancelled,294.39,2024-11-01 21:37:05.451190,470,Separate packaging,N/A
+1411,Cancelled,349.01,2024-11-11 20:37:05.451196,471,Separate packaging,N/A
+1412,Completed,151.37,2024-11-28 11:37:05.451201,471,No special instructions,N/A
+1413,Pending,321.75,2024-12-20 04:37:05.451207,471,No special instructions,Restaurant issue
+1414,Pending,315.34,2024-11-20 13:37:05.451212,472,"No onions, please",N/A
+1415,Completed,477.16,2024-12-10 09:37:05.451218,472,Extra spicy,N/A
+1416,Pending,285.11,2024-12-25 13:37:05.451223,472,"No onions, please",N/A
+1417,Cancelled,371.64,2024-11-15 18:37:05.451229,473,Extra spicy,Customer request
+1418,Completed,121.9,2024-12-04 03:37:05.451234,473,Separate packaging,Customer request
+1419,Pending,377.11,2024-11-02 03:37:05.451240,473,No special instructions,Customer request
+1420,Completed,423.73,2024-12-16 01:37:05.451246,474,"No onions, please",N/A
+1421,Completed,206.15,2024-12-09 15:37:05.451251,474,No special instructions,N/A
+1422,Cancelled,102.41,2024-12-24 15:37:05.451256,474,Separate packaging,Customer request
+1423,Pending,464.23,2024-12-11 21:37:05.451263,475,Extra spicy,Restaurant issue
+1424,Pending,282.88,2024-11-30 07:37:05.451268,475,No special instructions,N/A
+1425,Cancelled,259.71,2024-12-14 17:37:05.451276,475,Separate packaging,N/A
+1426,Pending,132.58,2024-12-14 08:37:05.451286,476,"No onions, please",Customer request
+1427,Pending,211.64,2024-11-14 07:37:05.451296,476,Separate packaging,N/A
+1428,Completed,349.7,2024-12-26 07:37:05.451305,476,Separate packaging,Restaurant issue
+1429,Completed,326.02,2024-12-25 11:37:05.451311,477,No special instructions,N/A
+1430,Completed,220.61,2024-12-07 03:37:05.451316,477,Extra spicy,Customer request
+1431,Pending,441.21,2024-11-27 17:37:05.451322,477,"No onions, please",Customer request
+1432,Cancelled,350.74,2024-11-18 13:37:05.451328,478,Separate packaging,Customer request
+1433,Completed,205.04,2024-11-28 15:37:05.451334,478,No special instructions,Customer request
+1434,Cancelled,416.26,2024-11-30 12:37:05.451339,478,"No onions, please",Customer request
+1435,Completed,257.23,2024-11-24 10:37:05.451345,479,Separate packaging,N/A
+1436,Cancelled,261.51,2024-12-31 01:37:05.451350,479,Separate packaging,N/A
+1437,Completed,146.7,2024-12-02 13:37:05.451355,479,Separate packaging,Restaurant issue
+1438,Cancelled,394.52,2024-11-26 10:37:05.451362,480,Extra spicy,N/A
+1439,Pending,330.29,2024-11-03 14:37:05.451367,480,Extra spicy,N/A
+1440,Cancelled,158.99,2024-11-09 13:37:05.451374,480,No special instructions,N/A
+1441,Completed,307.1,2024-12-23 19:37:05.451384,481,No special instructions,N/A
+1442,Completed,420.53,2024-12-15 05:37:05.451394,481,Separate packaging,N/A
+1443,Completed,361.17,2024-11-07 19:37:05.451400,481,Extra spicy,N/A
+1444,Pending,181.88,2024-11-30 01:37:05.451406,482,Extra spicy,N/A
+1445,Pending,483.45,2024-12-07 15:37:05.451411,482,No special instructions,Restaurant issue
+1446,Pending,497.63,2024-12-11 01:37:05.451417,482,"No onions, please",N/A
+1447,Cancelled,420.6,2024-12-14 15:37:05.451422,483,Separate packaging,Restaurant issue
+1448,Completed,314.76,2024-12-11 18:37:05.451428,483,"No onions, please",N/A
+1449,Completed,397.41,2024-12-25 12:37:05.451433,483,No special instructions,N/A
+1450,Pending,303.17,2024-11-11 18:37:05.451439,484,Separate packaging,Customer request
+1451,Completed,305.08,2024-12-14 22:37:05.451444,484,Extra spicy,N/A
+1452,Cancelled,107.16,2024-11-27 13:37:05.451450,484,"No onions, please",N/A
+1453,Pending,439.91,2024-11-07 13:37:05.451455,485,Separate packaging,N/A
+1454,Cancelled,297.15,2024-11-23 17:37:05.451460,485,Separate packaging,N/A
+1455,Completed,108.78,2024-12-14 08:37:05.451465,485,No special instructions,N/A
+1456,Completed,342.29,2024-11-13 11:37:05.451471,486,Extra spicy,Restaurant issue
+1457,Completed,460.46,2024-12-11 02:37:05.451476,486,Extra spicy,Customer request
+1458,Cancelled,321.16,2024-11-29 19:37:05.451482,486,Separate packaging,Restaurant issue
+1459,Pending,195.42,2024-12-24 04:37:05.451488,487,No special instructions,Customer request
+1460,Cancelled,347.78,2024-11-12 07:37:05.451494,487,No special instructions,Customer request
+1461,Pending,312.12,2024-11-01 22:37:05.451500,487,Extra spicy,Customer request
+1462,Completed,122.33,2024-11-30 22:37:05.451506,488,Separate packaging,N/A
+1463,Pending,164.1,2024-11-06 16:37:05.451512,488,Extra spicy,N/A
+1464,Pending,116.26,2024-12-08 12:37:05.451517,488,No special instructions,N/A
+1465,Completed,187.21,2024-12-17 18:37:05.451523,489,Extra spicy,N/A
+1466,Completed,416.83,2024-12-01 13:37:05.451528,489,Separate packaging,N/A
+1467,Pending,118.45,2024-12-16 12:37:05.451533,489,Extra spicy,Customer request
+1468,Completed,494.03,2024-12-05 04:37:05.451539,490,"No onions, please",N/A
+1469,Completed,379.76,2024-11-30 16:37:05.451545,490,Extra spicy,Customer request
+1470,Completed,232.15,2024-11-16 16:37:05.451551,490,No special instructions,N/A
+1471,Cancelled,141.13,2024-11-28 16:37:05.451556,491,Extra spicy,N/A
+1472,Completed,297.01,2024-12-17 19:37:05.451562,491,Extra spicy,N/A
+1473,Cancelled,105.37,2024-11-14 08:37:05.451567,491,Separate packaging,N/A
+1474,Cancelled,410.28,2024-11-14 20:37:05.451573,492,Separate packaging,Restaurant issue
+1475,Cancelled,167.67,2024-12-31 12:37:05.451579,492,Extra spicy,N/A
+1476,Pending,331.96,2024-11-19 01:37:05.451584,492,No special instructions,Restaurant issue
+1477,Pending,148.27,2024-12-12 12:37:05.451590,493,"No onions, please",N/A
+1478,Completed,379.11,2024-12-17 15:37:05.451596,493,"No onions, please",Restaurant issue
+1479,Pending,498.46,2024-11-11 12:37:05.451602,493,Separate packaging,Restaurant issue
+1480,Completed,170.79,2024-12-12 02:37:05.451608,494,"No onions, please",Customer request
+1481,Cancelled,163.36,2024-12-18 07:37:05.451614,494,No special instructions,N/A
+1482,Completed,372.21,2024-11-23 18:37:05.451619,494,Separate packaging,Restaurant issue
+1483,Pending,183.43,2024-11-04 06:37:05.451625,495,Extra spicy,N/A
+1484,Pending,357.33,2024-11-12 12:37:05.451679,495,Separate packaging,Customer request
+1485,Completed,290.36,2024-11-24 00:37:05.451685,495,"No onions, please",Restaurant issue
+1486,Completed,202.4,2024-12-02 09:37:05.451691,496,Extra spicy,Restaurant issue
+1487,Cancelled,262.77,2024-12-05 11:37:05.451697,496,Extra spicy,Restaurant issue
+1488,Cancelled,366.6,2024-11-21 12:37:05.451703,496,Separate packaging,Restaurant issue
+1489,Completed,316.86,2024-11-26 07:37:05.451709,497,"No onions, please",N/A
+1490,Completed,489.33,2024-12-11 19:37:05.451714,497,Separate packaging,Restaurant issue
+1491,Completed,107.3,2024-12-11 21:37:05.451720,497,"No onions, please",Customer request
+1492,Completed,174.56,2024-11-25 21:37:05.451726,498,Separate packaging,N/A
+1493,Completed,370.1,2024-11-18 05:37:05.451731,498,Extra spicy,N/A
+1494,Pending,456.49,2024-12-18 19:37:05.451736,498,Extra spicy,N/A
+1495,Pending,389.56,2024-12-26 21:37:05.451743,499,No special instructions,Customer request
+1496,Completed,496.61,2024-12-18 10:37:05.451753,499,Separate packaging,Customer request
+1497,Completed,229.99,2024-11-06 11:37:05.451763,499,No special instructions,N/A
+1498,Pending,327.07,2024-11-24 19:37:05.451775,500,No special instructions,Customer request
+1499,Completed,154.06,2024-12-17 03:37:05.451781,500,Separate packaging,N/A
+1500,Cancelled,471.19,2024-11-03 00:37:05.451786,500,Separate packaging,N/A
